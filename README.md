@@ -1,4 +1,4 @@
-# `jekyll-theme-modernist` gem
+# `jekyll-theme-modernist`
 
 Modernist is a Jekyll theme for [GitHub Pages](https://pages.github.com).
 
