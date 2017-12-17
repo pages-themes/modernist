@@ -1,5 +1,15 @@
-title: Modernist theme
-description: Modernist is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+# Site settings
+title: marxy.net
+email: mecwerks@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Demos and statistics from CS:GO 10 mans with friends.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://marxy.net" # the base hostname & protocol for your site
+twitter_username: mecwerks
+github_username:  mecwerks
 theme: jekyll-theme-modernist
+google_analytics: UA-111346607-1
+show_downloads: false
+
+# Build settings
+markdown: kramdown
