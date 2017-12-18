@@ -16,20 +16,44 @@
     <![endif]-->
   </head>
   <body>
+	{% assign match = site.data.matches[page.matchid] %}
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <h1>{{ match.TeamA.Name | default: "Team A" }} vs. {{ match.TeamB.Name | default: "Team B" }}</h1>
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
-        {% if site.show_downloads %}
-        <ul>
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-        </ul>
-        {% endif %}
       </header>
       <section>
+	  <table>
+		<thead>
+			<tr class="header">
+				<th>{{match.TeamA.Name | default:"Team A"}}</th>
+				<th style="text-align: center">Kills</th>
+				<th style="text-align: center">Assists</th>
+				<th style="text-align: center">Deaths</th>
+				<th>KAST</th>
+				<th style="text-align: center">K/D Diff</th>
+				<th>Headshot %</th>
+			</tr>
+		</thead>
+		<tbody>
+			{% for steamID in match.TeamA.SteamIDs %}
+			{% assign player = match.Players[steamID] %}
+			<tr>
+				<td markdown="span">{{player.Name | default:"Unknown"}}</td>
+				<td markdown="span" style="text-align: center">{{player.Kills | default:"0"}}</td>
+				<td markdown="span"style="text-align: center">{{player.Assists | default:"0"}}</td>
+				<td markdown="span"style="text-align: center">{{player.Deaths | default:"0"}}</td>
+				{% assign totalRounds = match.TotalRounds | times: 1.0 %}
+				<td markdown="span">{{player.KASTRounds | divided_by: totalRounds | times: 100 | round: 2}}%</td>
+				<td markdown="span"style="text-align: center">{{player.Kills | minus: player.Deaths | default:"0"}}</td>
+				{% assign kills = player.Kills | times: 1.0 %}
+				<td markdown="span">{{player.Headshots | divided_by: kills | times: 100 | round: 2}}%</td>
+			</tr>
+			{% endfor %}
+		</tbody>
+	  </table>
 
       {{ content }}
 
