@@ -1,0 +1,48 @@
+<table>
+	<thead>
+		<tr class="header">
+			<th nowrap>{{include.teamname | default:"Team Unknown"}}</th>
+			<th nowrap style="text-align: center">Kills</th>
+			<th nowrap style="text-align: center">Assists</th>
+			<th nowrap style="text-align: center">Deaths</th>
+			<th nowrap>KAST</th>
+			<th nowrap style="text-align: center">ADR</th>
+			<th nowrap style="text-align: center">K/D Diff</th>
+			<th nowrap>Headshot %</th>
+			<th nowrap>Plants</th>
+			<th nowrap>Defuses</th>
+			<th nowrap>MVPs</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for steamID in include.teamIDs %}
+		{% assign player = include.players[steamID] %}
+		<tr>
+			<!-- Name/Page Link -->
+			<td markdown="span"><a href="./players/{{steamID}}">{{player.Name | default: "Unknown"}}</a></td>				
+			<!-- Kills -->				
+			<td markdown="span" style="text-align: center">{{player.Kills | default:"0"}}</td>
+			<!-- Assists -->
+			<td markdown="span" style="text-align: center">{{player.Assists | default:"0"}}</td>
+			<!-- Deaths -->
+			<td markdown="span" style="text-align: center">{{player.Deaths | default:"0"}}</td>
+			<!-- KAST % -->
+			{% assign totalRounds = include.totalRounds | times: 1.0 %}
+			<td markdown="span">{{player.KASTRounds | divided_by: totalRounds | times: 100 | round: 2}}%</td>
+			<!-- ADR -->
+			<td markdown="span" style="text-align: center">{{player.DamageDealt | divided_by: totalRounds | round: 1}}
+			<!-- K/D Diff -->
+			<td markdown="span"style="text-align: center">{{player.Kills | minus: player.Deaths | default:"0"}}</td>
+			<!-- Headshot % -->
+			{% assign kills = player.Kills | times: 1.0 %}
+			<td markdown="span">{{player.Headshots | divided_by: kills | times: 100 | round: 2}}%</td>
+			<!-- Plants -->
+			<td markdown="span" style="text-align: center">{{player.Plants | default:"0"}}</td>
+			<!-- Defuses -->
+			<td markdown="span" style="text-align: center">{{player.Defuses | default:"0"}}</td>
+			<!-- MVPs -->
+			<td markdown="span" style="text-align: center">{{player.MVPs | default:"0"}}</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>

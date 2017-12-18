@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
+	
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -19,41 +19,21 @@
 	{% assign match = site.data.matches[page.matchid] %}
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-        <h1>{{ match.TeamA.Name | default: "Team A" }} vs. {{ match.TeamB.Name | default: "Team B" }}</h1>
+	<div style="clear: both">
+        <h1 style="float: left">{{ match.TeamA.Name | default: "Team A" }} vs. {{ match.TeamB.Name | default: "Team B" }}</h1>
+		<h3 style="float: right"><a href="{{page.demourl}}">GOTV Demo</a></h3>
+	</div>
+	<br/>
+	<br/>
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
       </header>
       <section>
-	  <table>
-		<thead>
-			<tr class="header">
-				<th>{{match.TeamA.Name | default:"Team A"}}</th>
-				<th style="text-align: center">Kills</th>
-				<th style="text-align: center">Assists</th>
-				<th style="text-align: center">Deaths</th>
-				<th>KAST</th>
-				<th style="text-align: center">K/D Diff</th>
-				<th>Headshot %</th>
-			</tr>
-		</thead>
-		<tbody>
-			{% for steamID in match.TeamA.SteamIDs %}
-			{% assign player = match.Players[steamID] %}
-			<tr>
-				<td markdown="span">{{player.Name | default:"Unknown"}}</td>
-				<td markdown="span" style="text-align: center">{{player.Kills | default:"0"}}</td>
-				<td markdown="span"style="text-align: center">{{player.Assists | default:"0"}}</td>
-				<td markdown="span"style="text-align: center">{{player.Deaths | default:"0"}}</td>
-				{% assign totalRounds = match.TotalRounds | times: 1.0 %}
-				<td markdown="span">{{player.KASTRounds | divided_by: totalRounds | times: 100 | round: 2}}%</td>
-				<td markdown="span"style="text-align: center">{{player.Kills | minus: player.Deaths | default:"0"}}</td>
-				{% assign kills = player.Kills | times: 1.0 %}
-				<td markdown="span">{{player.Headshots | divided_by: kills | times: 100 | round: 2}}%</td>
-			</tr>
-			{% endfor %}
-		</tbody>
-	  </table>
+	  
+	  {% assign rounds = match.TotalRounds %}
+	  {% include teamstattable.html totalRounds=rounds players=match.Players teamIDs=match.TeamA.SteamIDs teamname=match.TeamA.Name %}
+	  {% include teamstattable.html totalRounds=rounds players=match.Players teamIDs=match.TeamB.SteamIDs teamname=match.TeamB.Name %}
 
       {{ content }}
 
