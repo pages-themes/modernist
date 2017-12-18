@@ -1,17 +1,17 @@
-<table>
+<table id="table_{{include.teamname}}" class="sortable">
 	<thead>
 		<tr class="header">
-			<th nowrap>{{include.teamname | default:"Team Unknown"}}</th>
-			<th nowrap style="text-align: center">Kills</th>
-			<th nowrap style="text-align: center">Assists</th>
-			<th nowrap style="text-align: center">Deaths</th>
-			<th nowrap>KAST</th>
-			<th nowrap style="text-align: center">ADR</th>
-			<th nowrap style="text-align: center">K/D Diff</th>
-			<th nowrap>Headshot %</th>
-			<th nowrap>Plants</th>
-			<th nowrap>Defuses</th>
-			<th nowrap>MVPs</th>
+			<th width="2%">{{include.teamname | default:"Team Unknown"}}</th>
+			<th style="text-align: center">Kills</th>
+			<th style="text-align: center">Assists</th>
+			<th style="text-align: center">Deaths</th>
+			<th>KAST</th>
+			<th style="text-align: center">ADR</th>
+			<th style="text-align: center">K/D Diff</th>
+			<th>Headshot %</th>
+			<th>Plants</th>
+			<th>Defuses</th>
+			<th>MVPs</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -32,7 +32,18 @@
 			<!-- ADR -->
 			<td markdown="span" style="text-align: center">{{player.DamageDealt | divided_by: totalRounds | round: 1}}
 			<!-- K/D Diff -->
-			<td markdown="span"style="text-align: center">{{player.Kills | minus: player.Deaths | default:"0"}}</td>
+			{% assign kdDiff = player.Kills | minus: player.Deaths %}
+			{% if kdDiff > 0 %}
+				{% assign kdDiffClass = "kdDiffPositive" %}
+				{% assign kdSign = "+" %}
+			{% elsif kdDiff < 0 %}
+				{% assign kdDiffClass = "kdDiffNegative" %}
+				{% assign kdSign = "" %}
+			{% else %}
+				{% assign kdDiffClass = "kdDiffNone" %}
+				{% assign kdSign = "" %}
+			{% endif %}			
+			<td markdown="span" style="text-align: center" class={{kdDiffClass}}>{{kdSign}}{{kdDiff | default:"0"}}</td>
 			<!-- Headshot % -->
 			{% assign kills = player.Kills | times: 1.0 %}
 			<td markdown="span">{{player.Headshots | divided_by: kills | times: 100 | round: 2}}%</td>
@@ -46,3 +57,4 @@
 		{% endfor %}
 	</tbody>
 </table>
+
