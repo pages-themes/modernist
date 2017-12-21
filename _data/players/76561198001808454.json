@@ -1,0 +1,44 @@
+{
+  "Name": "ISM",
+  "SteamID": 76561198001808454,
+  "Kills": 234,
+  "Deaths": 216,
+  "Assists": 29,
+  "FlashAssists": 0,
+  "MVPs": 14,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 0,
+  "AWPKills": 33,
+  "DamageDealt": 18720,
+  "ArmorDamageDealt": 188,
+  "FirstKills": 25,
+  "FirstDeaths": 21,
+  "KASTRounds": 96,
+  "Headshots": 46,
+  "Defuses": 0,
+  "Plants": 10,
+  "Disconnected": true,
+  "Matches": [
+    "pug_cs_office_2017-12-03_18",
+    "pug_de_cache_2017-08-08_01",
+    "pug_de_cache_2017-08-19_00",
+    "pug_de_inferno_2017-12-10_23",
+    "pug_de_inferno_old_2017-12-17_22",
+    "pug_de_mirage_2017-08-07_22"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 55,
+    "2": 15,
+    "3": 10,
+    "4": 2,
+    "5": 0
+  }
+}

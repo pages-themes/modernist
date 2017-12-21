@@ -1,0 +1,42 @@
+{
+  "Name": "flipNDipp",
+  "SteamID": 76561198271442417,
+  "Kills": 222,
+  "Deaths": 207,
+  "Assists": 32,
+  "FlashAssists": 0,
+  "MVPs": 10,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 1,
+  "AWPKills": 2,
+  "DamageDealt": 17085,
+  "ArmorDamageDealt": 415,
+  "FirstKills": 20,
+  "FirstDeaths": 11,
+  "KASTRounds": 92,
+  "Headshots": 42,
+  "Defuses": 0,
+  "Plants": 5,
+  "Disconnected": false,
+  "Matches": [
+    "pug_cs_office_2017-12-03_18",
+    "pug_de_cache_2017-08-19_00",
+    "pug_de_inferno_old_2017-12-16_23",
+    "pug_de_inferno_old_2017-12-17_22"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 46,
+    "2": 23,
+    "3": 7,
+    "4": 2,
+    "5": 0
+  }
+}

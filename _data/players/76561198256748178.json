@@ -1,0 +1,42 @@
+{
+  "Name": "Mike Nolan",
+  "SteamID": 76561198256748178,
+  "Kills": 145,
+  "Deaths": 131,
+  "Assists": 14,
+  "FlashAssists": 0,
+  "MVPs": 9,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 0,
+  "AWPKills": 10,
+  "DamageDealt": 11567,
+  "ArmorDamageDealt": 307,
+  "FirstKills": 7,
+  "FirstDeaths": 11,
+  "KASTRounds": 54,
+  "Headshots": 32,
+  "Defuses": 1,
+  "Plants": 1,
+  "Disconnected": false,
+  "Matches": [
+    "pug_de_cache_2017-08-08_01",
+    "pug_de_cache_2017-08-19_00",
+    "pug_de_mirage_2017-08-07_22",
+    "pug_de_overpass_2017-08-08_22"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 25,
+    "2": 15,
+    "3": 6,
+    "4": 2,
+    "5": 0
+  }
+}

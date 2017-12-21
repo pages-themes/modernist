@@ -1,0 +1,40 @@
+{
+  "Name": "OG Gnu",
+  "SteamID": 76561198055445808,
+  "Kills": 73,
+  "Deaths": 67,
+  "Assists": 8,
+  "FlashAssists": 0,
+  "MVPs": 6,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 0,
+  "AWPKills": 6,
+  "DamageDealt": 7198,
+  "ArmorDamageDealt": 292,
+  "FirstKills": 13,
+  "FirstDeaths": 9,
+  "KASTRounds": 34,
+  "Headshots": 29,
+  "Defuses": 1,
+  "Plants": 2,
+  "Disconnected": false,
+  "Matches": [
+    "pug_cs_office_2017-12-03_18",
+    "pug_de_season_2017-12-15_00"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 16,
+    "2": 8,
+    "3": 5,
+    "4": 0,
+    "5": 0
+  }
+}

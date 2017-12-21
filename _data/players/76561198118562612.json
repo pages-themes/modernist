@@ -1,0 +1,39 @@
+{
+  "Name": "🖤ENDL3SSL0V3™🖤",
+  "SteamID": 76561198118562612,
+  "Kills": 18,
+  "Deaths": 24,
+  "Assists": 3,
+  "FlashAssists": 0,
+  "MVPs": 1,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 1,
+  "AWPKills": 6,
+  "DamageDealt": 3033,
+  "ArmorDamageDealt": 348,
+  "FirstKills": 1,
+  "FirstDeaths": 1,
+  "KASTRounds": 17,
+  "Headshots": 5,
+  "Defuses": 0,
+  "Plants": 1,
+  "Disconnected": false,
+  "Matches": [
+    "pug_de_inferno_old_2017-12-17_22"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 11,
+    "2": 3,
+    "3": 1,
+    "4": 0,
+    "5": 0
+  }
+}

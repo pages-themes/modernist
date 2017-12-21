@@ -1,0 +1,509 @@
+{
+  "UID": "pug_de_cache_2017-08-19_00",
+  "MapName": "de_cache",
+  "TotalRounds": 24,
+  "TeamA": {
+    "Name": "Team 1",
+    "SteamIDs": [
+      "76561198235994884",
+      "76561198148070517",
+      "76561198030424730",
+      "76561198104649119",
+      "76561198271442417"
+    ],
+    "RoundsWon": 16
+  },
+  "TeamB": {
+    "Name": "Team 2",
+    "SteamIDs": [
+      "76561198072042202",
+      "76561198079742537",
+      "76561198001808454",
+      "76561198256748178",
+      "76561198071477737"
+    ],
+    "RoundsWon": 8
+  },
+  "SteamIDs": [
+    "76561198072042202",
+    "76561198079742537",
+    "76561198235994884",
+    "76561198001808454",
+    "76561198148070517",
+    "76561198256748178",
+    "76561198030424730",
+    "76561198071477737",
+    "76561198104649119",
+    "76561198271442417"
+  ],
+  "RoundWinReasons": [
+    "CTWin",
+    "BombDefused",
+    "CTWin",
+    "CTWin",
+    "CTWin",
+    "CTWin",
+    "TerroristWin",
+    "TargetBombed",
+    "TerroristWin",
+    "TerroristWin",
+    "BombDefused",
+    "TerroristWin",
+    "TerroristWin",
+    "TerroristWin",
+    "TerroristWin",
+    "BombDefused",
+    "CTWin",
+    "TargetBombed",
+    "BombDefused",
+    "CTWin",
+    "CTWin",
+    "CTWin",
+    "CTWin",
+    "CTWin"
+  ],
+  "Awards": {
+    "ExecuteOrder66": {
+      "SteamID": 0,
+      "Name": "",
+      "Value": 0.0
+    },
+    "TheKendoll": {
+      "SteamID": 76561198079742537,
+      "Name": "alt-CJ",
+      "Value": 9.0
+    },
+    "Terminator": {
+      "SteamID": 76561198256748178,
+      "Name": "Wormy",
+      "Value": 29.0
+    },
+    "TheProffesional": {
+      "SteamID": 76561198256748178,
+      "Name": "Wormy",
+      "Value": 3738.0
+    },
+    "LendingHand": {
+      "SteamID": 76561198071477737,
+      "Name": "K csgoboss.com",
+      "Value": 7.0
+    },
+    "TheAssasin": {
+      "SteamID": 76561198256748178,
+      "Name": "Wormy",
+      "Value": 6.0
+    },
+    "TheEntry": {
+      "SteamID": 76561198235994884,
+      "Name": "prg [C]",
+      "Value": 6.0
+    },
+    "ClutchMaster": {
+      "SteamID": 0,
+      "Name": "",
+      "Value": 0.0
+    },
+    "TradeCraft": {
+      "SteamID": 0,
+      "Name": "",
+      "Value": 0.0
+    },
+    "FragBait": {
+      "SteamID": 0,
+      "Name": "",
+      "Value": 0.0
+    }
+  },
+  "Players": {
+    "76561198072042202": {
+      "Name": "Ant-iwnl-",
+      "SteamID": 76561198072042202,
+      "Kills": 17,
+      "Deaths": 18,
+      "Assists": 3,
+      "FlashAssists": 0,
+      "MVPs": 3,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 0,
+      "DamageDealt": 2268,
+      "ArmorDamageDealt": 231,
+      "FirstKills": 0,
+      "FirstDeaths": 4,
+      "KASTRounds": 10,
+      "Headshots": 6,
+      "Defuses": 1,
+      "Plants": 0,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_cache_2017-08-19_00"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 5,
+        "2": 3,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198079742537": {
+      "Name": "alt-CJ",
+      "SteamID": 76561198079742537,
+      "Kills": 8,
+      "Deaths": 18,
+      "Assists": 4,
+      "FlashAssists": 0,
+      "MVPs": 2,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 1,
+      "DamageDealt": 1259,
+      "ArmorDamageDealt": 62,
+      "FirstKills": 0,
+      "FirstDeaths": 2,
+      "KASTRounds": 9,
+      "Headshots": 4,
+      "Defuses": 1,
+      "Plants": 2,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_cache_2017-08-19_00"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 5,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198235994884": {
+      "Name": "prg [C]",
+      "SteamID": 76561198235994884,
+      "Kills": 25,
+      "Deaths": 18,
+      "Assists": 5,
+      "FlashAssists": 0,
+      "MVPs": 4,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 2,
+      "DamageDealt": 3159,
+      "ArmorDamageDealt": 286,
+      "FirstKills": 6,
+      "FirstDeaths": 2,
+      "KASTRounds": 20,
+      "Headshots": 7,
+      "Defuses": 0,
+      "Plants": 2,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_cache_2017-08-19_00"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 10,
+        "2": 6,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198001808454": {
+      "Name": "ｉｓｍ • 女神",
+      "SteamID": 76561198001808454,
+      "Kills": 16,
+      "Deaths": 21,
+      "Assists": 6,
+      "FlashAssists": 0,
+      "MVPs": 1,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 1,
+      "DamageDealt": 2053,
+      "ArmorDamageDealt": 284,
+      "FirstKills": 2,
+      "FirstDeaths": 4,
+      "KASTRounds": 12,
+      "Headshots": 6,
+      "Defuses": 0,
+      "Plants": 1,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_cache_2017-08-19_00"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 7,
+        "2": 3,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198148070517": {
+      "Name": "Devyn",
+      "SteamID": 76561198148070517,
+      "Kills": 18,
+      "Deaths": 13,
+      "Assists": 2,
+      "FlashAssists": 0,
+      "MVPs": 0,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 0,
+      "DamageDealt": 2427,
+      "ArmorDamageDealt": 188,
+      "FirstKills": 1,
+      "FirstDeaths": 1,
+      "KASTRounds": 11,
+      "Headshots": 10,
+      "Defuses": 1,
+      "Plants": 0,
+      "Disconnected": true,
+      "Matches": [
+        "pug_de_cache_2017-08-19_00"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 5,
+        "2": 3,
+        "3": 1,
+        "4": 1,
+        "5": 0
+      }
+    },
+    "76561198256748178": {
+      "Name": "Wormy",
+      "SteamID": 76561198256748178,
+      "Kills": 29,
+      "Deaths": 18,
+      "Assists": 5,
+      "FlashAssists": 0,
+      "MVPs": 2,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 6,
+      "DamageDealt": 3738,
+      "ArmorDamageDealt": 335,
+      "FirstKills": 3,
+      "FirstDeaths": 1,
+      "KASTRounds": 16,
+      "Headshots": 9,
+      "Defuses": 0,
+      "Plants": 0,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_cache_2017-08-19_00"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 6,
+        "2": 5,
+        "3": 3,
+        "4": 1,
+        "5": 0
+      }
+    },
+    "76561198030424730": {
+      "Name": "Invalidism",
+      "SteamID": 76561198030424730,
+      "Kills": 15,
+      "Deaths": 13,
+      "Assists": 4,
+      "FlashAssists": 0,
+      "MVPs": 3,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 5,
+      "DamageDealt": 2961,
+      "ArmorDamageDealt": 189,
+      "FirstKills": 1,
+      "FirstDeaths": 2,
+      "KASTRounds": 13,
+      "Headshots": 6,
+      "Defuses": 1,
+      "Plants": 1,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_cache_2017-08-19_00"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 10,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198071477737": {
+      "Name": "K csgoboss.com",
+      "SteamID": 76561198071477737,
+      "Kills": 10,
+      "Deaths": 22,
+      "Assists": 7,
+      "FlashAssists": 0,
+      "MVPs": 0,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 1,
+      "DamageDealt": 1494,
+      "ArmorDamageDealt": 237,
+      "FirstKills": 4,
+      "FirstDeaths": 4,
+      "KASTRounds": 12,
+      "Headshots": 6,
+      "Defuses": 0,
+      "Plants": 0,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_cache_2017-08-19_00"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 8,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198104649119": {
+      "Name": "Mary The Hacker",
+      "SteamID": 76561198104649119,
+      "Kills": 19,
+      "Deaths": 18,
+      "Assists": 5,
+      "FlashAssists": 0,
+      "MVPs": 4,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 0,
+      "DamageDealt": 2592,
+      "ArmorDamageDealt": 243,
+      "FirstKills": 4,
+      "FirstDeaths": 4,
+      "KASTRounds": 15,
+      "Headshots": 9,
+      "Defuses": 0,
+      "Plants": 3,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_cache_2017-08-19_00"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 7,
+        "2": 6,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198271442417": {
+      "Name": "FlipZz",
+      "SteamID": 76561198271442417,
+      "Kills": 20,
+      "Deaths": 18,
+      "Assists": 4,
+      "FlashAssists": 0,
+      "MVPs": 2,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 1,
+      "DamageDealt": 2749,
+      "ArmorDamageDealt": 345,
+      "FirstKills": 3,
+      "FirstDeaths": 0,
+      "KASTRounds": 14,
+      "Headshots": 5,
+      "Defuses": 0,
+      "Plants": 4,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_cache_2017-08-19_00"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 10,
+        "2": 2,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      }
+    }
+  }
+}

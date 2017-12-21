@@ -1,0 +1,46 @@
+{
+  "Name": "Vash the Stampede",
+  "SteamID": 76561198393693567,
+  "Kills": 434,
+  "Deaths": 302,
+  "Assists": 38,
+  "FlashAssists": 0,
+  "MVPs": 54,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 2,
+  "AWPKills": 22,
+  "DamageDealt": 34339,
+  "ArmorDamageDealt": 522,
+  "FirstKills": 60,
+  "FirstDeaths": 44,
+  "KASTRounds": 163,
+  "Headshots": 97,
+  "Defuses": 5,
+  "Plants": 7,
+  "Disconnected": false,
+  "Matches": [
+    "pug_cs_office_2017-12-03_18",
+    "pug_de_canals_2017-12-15_12",
+    "pug_de_dust2_2017-12-15_22",
+    "pug_de_inferno_2017-12-10_23",
+    "pug_de_inferno_old_2017-12-16_23",
+    "pug_de_inferno_old_2017-12-17_22",
+    "pug_de_nache_2017-12-16_00",
+    "pug_de_season_2017-12-15_00"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 85,
+    "2": 44,
+    "3": 15,
+    "4": 5,
+    "5": 1
+  }
+}

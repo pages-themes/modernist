@@ -1,0 +1,39 @@
+{
+  "Name": "USPS TRACKING",
+  "SteamID": 76561198109854748,
+  "Kills": 28,
+  "Deaths": 44,
+  "Assists": 13,
+  "FlashAssists": 0,
+  "MVPs": 2,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 0,
+  "AWPKills": 1,
+  "DamageDealt": 5342,
+  "ArmorDamageDealt": 674,
+  "FirstKills": 2,
+  "FirstDeaths": 5,
+  "KASTRounds": 30,
+  "Headshots": 10,
+  "Defuses": 0,
+  "Plants": 4,
+  "Disconnected": false,
+  "Matches": [
+    "pug_de_inferno_old_2017-12-16_23"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 17,
+    "2": 4,
+    "3": 1,
+    "4": 0,
+    "5": 0
+  }
+}

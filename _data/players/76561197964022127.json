@@ -1,0 +1,39 @@
+{
+  "Name": "Not Your Dad",
+  "SteamID": 76561197964022127,
+  "Kills": 3,
+  "Deaths": 19,
+  "Assists": 2,
+  "FlashAssists": 0,
+  "MVPs": 1,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 2,
+  "AWPKills": 0,
+  "DamageDealt": 1161,
+  "ArmorDamageDealt": 197,
+  "FirstKills": 0,
+  "FirstDeaths": 3,
+  "KASTRounds": 6,
+  "Headshots": 3,
+  "Defuses": 2,
+  "Plants": 1,
+  "Disconnected": false,
+  "Matches": [
+    "pug_de_season_2017-12-15_00"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 4,
+    "2": 1,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  }
+}

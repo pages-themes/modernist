@@ -1,0 +1,39 @@
+{
+  "Name": "[IFN] Police Academy [M]",
+  "SteamID": 76561198067076932,
+  "Kills": 17,
+  "Deaths": 16,
+  "Assists": 2,
+  "FlashAssists": 0,
+  "MVPs": 4,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 2,
+  "AWPKills": 2,
+  "DamageDealt": 2655,
+  "ArmorDamageDealt": 232,
+  "FirstKills": 3,
+  "FirstDeaths": 1,
+  "KASTRounds": 13,
+  "Headshots": 13,
+  "Defuses": 1,
+  "Plants": 3,
+  "Disconnected": false,
+  "Matches": [
+    "pug_de_season_2017-12-15_00"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 7,
+    "2": 4,
+    "3": 2,
+    "4": 0,
+    "5": 0
+  }
+}

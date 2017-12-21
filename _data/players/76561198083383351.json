@@ -1,0 +1,40 @@
+{
+  "Name": "PartyPetah",
+  "SteamID": 76561198083383351,
+  "Kills": 71,
+  "Deaths": 111,
+  "Assists": 15,
+  "FlashAssists": 0,
+  "MVPs": 1,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 1,
+  "AWPKills": 1,
+  "DamageDealt": 6360,
+  "ArmorDamageDealt": 269,
+  "FirstKills": 5,
+  "FirstDeaths": 6,
+  "KASTRounds": 40,
+  "Headshots": 16,
+  "Defuses": 0,
+  "Plants": 6,
+  "Disconnected": true,
+  "Matches": [
+    "pug_cs_office_2017-12-03_18",
+    "pug_de_inferno_old_2017-12-16_23"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 24,
+    "2": 6,
+    "3": 2,
+    "4": 0,
+    "5": 0
+  }
+}

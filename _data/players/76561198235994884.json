@@ -1,0 +1,40 @@
+{
+  "Name": "prg [C]",
+  "SteamID": 76561198235994884,
+  "Kills": 57,
+  "Deaths": 44,
+  "Assists": 9,
+  "FlashAssists": 0,
+  "MVPs": 7,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 0,
+  "AWPKills": 7,
+  "DamageDealt": 5518,
+  "ArmorDamageDealt": 286,
+  "FirstKills": 7,
+  "FirstDeaths": 3,
+  "KASTRounds": 32,
+  "Headshots": 11,
+  "Defuses": 1,
+  "Plants": 4,
+  "Disconnected": false,
+  "Matches": [
+    "pug_de_cache_2017-08-19_00",
+    "pug_de_mirage_2017-08-07_22"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 12,
+    "2": 10,
+    "3": 3,
+    "4": 0,
+    "5": 0
+  }
+}

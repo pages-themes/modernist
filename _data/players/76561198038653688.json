@@ -1,0 +1,39 @@
+{
+  "Name": "Skyline",
+  "SteamID": 76561198038653688,
+  "Kills": 21,
+  "Deaths": 11,
+  "Assists": 1,
+  "FlashAssists": 0,
+  "MVPs": 0,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 0,
+  "AWPKills": 1,
+  "DamageDealt": 2720,
+  "ArmorDamageDealt": 260,
+  "FirstKills": 4,
+  "FirstDeaths": 0,
+  "KASTRounds": 15,
+  "Headshots": 7,
+  "Defuses": 0,
+  "Plants": 5,
+  "Disconnected": true,
+  "Matches": [
+    "pug_de_season_2017-12-15_00"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 8,
+    "2": 6,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  }
+}

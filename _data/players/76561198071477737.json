@@ -1,0 +1,45 @@
+{
+  "Name": "Not K",
+  "SteamID": 76561198071477737,
+  "Kills": 141,
+  "Deaths": 342,
+  "Assists": 38,
+  "FlashAssists": 0,
+  "MVPs": 9,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 2,
+  "AWPKills": 4,
+  "DamageDealt": 13278,
+  "ArmorDamageDealt": 196,
+  "FirstKills": 23,
+  "FirstDeaths": 48,
+  "KASTRounds": 90,
+  "Headshots": 18,
+  "Defuses": 3,
+  "Plants": 9,
+  "Disconnected": false,
+  "Matches": [
+    "pug_de_cache_2017-08-08_01",
+    "pug_de_cache_2017-08-19_00",
+    "pug_de_inferno_old_2017-12-16_23",
+    "pug_de_inferno_old_2017-12-17_22",
+    "pug_de_mirage_2017-08-07_22",
+    "pug_de_nache_2017-12-16_00",
+    "pug_de_overpass_2017-08-08_22"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 54,
+    "2": 11,
+    "3": 0,
+    "4": 1,
+    "5": 0
+  }
+}

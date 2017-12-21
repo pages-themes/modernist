@@ -14,12 +14,12 @@
 			<th>MVPs</th>
 		</tr>
 	</thead>
-	<tbody>
+	<tbody class="fullWidthTable">
 		{% for steamID in include.teamIDs %}
 		{% assign player = include.players[steamID] %}
 		<tr>
 			<!-- Name/Page Link -->
-			<td markdown="span"><a href="./players/{{steamID}}">{{player.Name | default: "Unknown"}}</a></td>				
+			<td markdown="span"><a href="/players/{{steamID}}.html">{{player.Name | default: "Unknown"}}</a></td>				
 			<!-- Kills -->				
 			<td markdown="span" style="text-align: center">{{player.Kills | default:"0"}}</td>
 			<!-- Assists -->

@@ -1,0 +1,42 @@
+{
+  "Name": "Fenton",
+  "SteamID": 76561198084911409,
+  "Kills": 120,
+  "Deaths": 141,
+  "Assists": 10,
+  "FlashAssists": 0,
+  "MVPs": 8,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 1,
+  "AWPKills": 8,
+  "DamageDealt": 9747,
+  "ArmorDamageDealt": 135,
+  "FirstKills": 15,
+  "FirstDeaths": 19,
+  "KASTRounds": 48,
+  "Headshots": 26,
+  "Defuses": 1,
+  "Plants": 2,
+  "Disconnected": true,
+  "Matches": [
+    "pug_de_inferno_2017-12-10_23",
+    "pug_de_mirage_2017-08-07_22",
+    "pug_de_overpass_2017-08-08_22",
+    "pug_de_season_2017-12-15_00"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 28,
+    "2": 11,
+    "3": 3,
+    "4": 2,
+    "5": 0
+  }
+}

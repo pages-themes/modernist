@@ -1,0 +1,508 @@
+{
+  "UID": "pug_de_season_2017-12-15_00",
+  "MapName": "workshop/322837144/de_season",
+  "TotalRounds": 23,
+  "TeamA": {
+    "Name": "Team 1",
+    "SteamIDs": [
+      "76561198393693567",
+      "76561198067076932",
+      "76561198072042202",
+      "76561198038653688",
+      "76561197972321876"
+    ],
+    "RoundsWon": 16
+  },
+  "TeamB": {
+    "Name": "Team 2",
+    "SteamIDs": [
+      "76561198165409571",
+      "76561198148070517",
+      "76561198055445808",
+      "76561197964022127",
+      "76561198084911409"
+    ],
+    "RoundsWon": 7
+  },
+  "SteamIDs": [
+    "76561198393693567",
+    "76561198165409571",
+    "76561198148070517",
+    "76561198067076932",
+    "76561198072042202",
+    "76561198055445808",
+    "76561197964022127",
+    "76561198038653688",
+    "76561198084911409",
+    "76561197972321876"
+  ],
+  "RoundWinReasons": [
+    "BombDefused",
+    "BombDefused",
+    "TerroristWin",
+    "TerroristWin",
+    "TerroristWin",
+    "TerroristWin",
+    "TerroristWin",
+    "TargetSaved",
+    "TargetBombed",
+    "TerroristWin",
+    "TargetBombed",
+    "BombDefused",
+    "TerroristWin",
+    "BombDefused",
+    "TerroristWin",
+    "BombDefused",
+    "TargetSaved",
+    "CTWin",
+    "CTWin",
+    "CTWin",
+    "TerroristWin",
+    "TargetBombed",
+    "BombDefused"
+  ],
+  "Awards": {
+    "ExecuteOrder66": {
+      "SteamID": 76561198067076932,
+      "Name": "[IFN] Police Academy [M]",
+      "Value": 2.0
+    },
+    "TheKendoll": {
+      "SteamID": 76561198165409571,
+      "Name": "Mercy Main BTW",
+      "Value": 6.0
+    },
+    "Terminator": {
+      "SteamID": 76561198072042202,
+      "Name": "Ant-iwnl-",
+      "Value": 24.0
+    },
+    "TheProffesional": {
+      "SteamID": 76561198072042202,
+      "Name": "Ant-iwnl-",
+      "Value": 3268.0
+    },
+    "LendingHand": {
+      "SteamID": 76561198393693567,
+      "Name": "Vash the Stampede",
+      "Value": 5.0
+    },
+    "TheAssasin": {
+      "SteamID": 76561198072042202,
+      "Name": "Ant-iwnl-",
+      "Value": 10.0
+    },
+    "TheEntry": {
+      "SteamID": 76561198055445808,
+      "Name": "OG Gnu",
+      "Value": 4.0
+    },
+    "ClutchMaster": {
+      "SteamID": 0,
+      "Name": "",
+      "Value": 0.0
+    },
+    "TradeCraft": {
+      "SteamID": 0,
+      "Name": "",
+      "Value": 0.0
+    },
+    "FragBait": {
+      "SteamID": 0,
+      "Name": "",
+      "Value": 0.0
+    }
+  },
+  "Players": {
+    "76561198393693567": {
+      "Name": "Vash the Stampede",
+      "SteamID": 76561198393693567,
+      "Kills": 18,
+      "Deaths": 12,
+      "Assists": 5,
+      "FlashAssists": 0,
+      "MVPs": 3,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 0,
+      "DamageDealt": 2700,
+      "ArmorDamageDealt": 279,
+      "FirstKills": 1,
+      "FirstDeaths": 4,
+      "KASTRounds": 15,
+      "Headshots": 6,
+      "Defuses": 0,
+      "Plants": 2,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_season_2017-12-15_00"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 7,
+        "2": 2,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198165409571": {
+      "Name": "Mercy Main BTW",
+      "SteamID": 76561198165409571,
+      "Kills": 0,
+      "Deaths": 0,
+      "Assists": 0,
+      "FlashAssists": 0,
+      "MVPs": 1,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 0,
+      "DamageDealt": 886,
+      "ArmorDamageDealt": 117,
+      "FirstKills": 2,
+      "FirstDeaths": 1,
+      "KASTRounds": 6,
+      "Headshots": 2,
+      "Defuses": 0,
+      "Plants": 0,
+      "Disconnected": true,
+      "Matches": [
+        "pug_de_season_2017-12-15_00"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 4,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198148070517": {
+      "Name": "Devyn",
+      "SteamID": 76561198148070517,
+      "Kills": 14,
+      "Deaths": 18,
+      "Assists": 1,
+      "FlashAssists": 0,
+      "MVPs": 1,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 0,
+      "DamageDealt": 2022,
+      "ArmorDamageDealt": 184,
+      "FirstKills": 1,
+      "FirstDeaths": 2,
+      "KASTRounds": 9,
+      "Headshots": 6,
+      "Defuses": 1,
+      "Plants": 1,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_season_2017-12-15_00"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 8,
+        "2": 1,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198067076932": {
+      "Name": "[IFN] Police Academy [M]",
+      "SteamID": 76561198067076932,
+      "Kills": 17,
+      "Deaths": 16,
+      "Assists": 2,
+      "FlashAssists": 0,
+      "MVPs": 4,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 2,
+      "AWPKills": 2,
+      "DamageDealt": 2655,
+      "ArmorDamageDealt": 232,
+      "FirstKills": 3,
+      "FirstDeaths": 1,
+      "KASTRounds": 13,
+      "Headshots": 13,
+      "Defuses": 1,
+      "Plants": 3,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_season_2017-12-15_00"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 7,
+        "2": 4,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198072042202": {
+      "Name": "Ant-iwnl-",
+      "SteamID": 76561198072042202,
+      "Kills": 24,
+      "Deaths": 14,
+      "Assists": 5,
+      "FlashAssists": 0,
+      "MVPs": 6,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 10,
+      "DamageDealt": 3268,
+      "ArmorDamageDealt": 325,
+      "FirstKills": 3,
+      "FirstDeaths": 2,
+      "KASTRounds": 18,
+      "Headshots": 9,
+      "Defuses": 1,
+      "Plants": 1,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_season_2017-12-15_00"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 10,
+        "2": 3,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198055445808": {
+      "Name": "OG Gnu",
+      "SteamID": 76561198055445808,
+      "Kills": 24,
+      "Deaths": 22,
+      "Assists": 1,
+      "FlashAssists": 0,
+      "MVPs": 2,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 4,
+      "DamageDealt": 3150,
+      "ArmorDamageDealt": 317,
+      "FirstKills": 4,
+      "FirstDeaths": 3,
+      "KASTRounds": 15,
+      "Headshots": 12,
+      "Defuses": 1,
+      "Plants": 2,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_season_2017-12-15_00"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 9,
+        "2": 2,
+        "3": 3,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561197964022127": {
+      "Name": "Not Your Dad",
+      "SteamID": 76561197964022127,
+      "Kills": 3,
+      "Deaths": 19,
+      "Assists": 2,
+      "FlashAssists": 0,
+      "MVPs": 1,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 2,
+      "AWPKills": 0,
+      "DamageDealt": 1161,
+      "ArmorDamageDealt": 197,
+      "FirstKills": 0,
+      "FirstDeaths": 3,
+      "KASTRounds": 6,
+      "Headshots": 3,
+      "Defuses": 2,
+      "Plants": 1,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_season_2017-12-15_00"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 4,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198038653688": {
+      "Name": "Skyline",
+      "SteamID": 76561198038653688,
+      "Kills": 21,
+      "Deaths": 11,
+      "Assists": 1,
+      "FlashAssists": 0,
+      "MVPs": 0,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 1,
+      "DamageDealt": 2720,
+      "ArmorDamageDealt": 260,
+      "FirstKills": 4,
+      "FirstDeaths": 0,
+      "KASTRounds": 15,
+      "Headshots": 7,
+      "Defuses": 0,
+      "Plants": 5,
+      "Disconnected": true,
+      "Matches": [
+        "pug_de_season_2017-12-15_00"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 8,
+        "2": 6,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198084911409": {
+      "Name": "Fenton",
+      "SteamID": 76561198084911409,
+      "Kills": 16,
+      "Deaths": 21,
+      "Assists": 2,
+      "FlashAssists": 0,
+      "MVPs": 2,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 0,
+      "DamageDealt": 2100,
+      "ArmorDamageDealt": 250,
+      "FirstKills": 3,
+      "FirstDeaths": 4,
+      "KASTRounds": 10,
+      "Headshots": 7,
+      "Defuses": 0,
+      "Plants": 0,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_season_2017-12-15_00"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 6,
+        "2": 2,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561197972321876": {
+      "Name": "the innocent hostage",
+      "SteamID": 76561197972321876,
+      "Kills": 8,
+      "Deaths": 14,
+      "Assists": 3,
+      "FlashAssists": 0,
+      "MVPs": 1,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 1,
+      "DamageDealt": 1178,
+      "ArmorDamageDealt": 190,
+      "FirstKills": 2,
+      "FirstDeaths": 3,
+      "KASTRounds": 8,
+      "Headshots": 5,
+      "Defuses": 0,
+      "Plants": 1,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_season_2017-12-15_00"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 6,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    }
+  }
+}

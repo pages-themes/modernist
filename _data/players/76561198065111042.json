@@ -1,0 +1,39 @@
+{
+  "Name": "Reihn",
+  "SteamID": 76561198065111042,
+  "Kills": 27,
+  "Deaths": 20,
+  "Assists": 3,
+  "FlashAssists": 0,
+  "MVPs": 0,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 0,
+  "AWPKills": 0,
+  "DamageDealt": 3216,
+  "ArmorDamageDealt": 412,
+  "FirstKills": 2,
+  "FirstDeaths": 4,
+  "KASTRounds": 15,
+  "Headshots": 12,
+  "Defuses": 0,
+  "Plants": 0,
+  "Disconnected": true,
+  "Matches": [
+    "pug_cs_office_2017-12-03_18"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 4,
+    "2": 4,
+    "3": 5,
+    "4": 0,
+    "5": 0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "Name": "the innocent hostage",
+  "SteamID": 76561197972321876,
+  "Kills": 30,
+  "Deaths": 47,
+  "Assists": 6,
+  "FlashAssists": 0,
+  "MVPs": 2,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 0,
+  "AWPKills": 1,
+  "DamageDealt": 3206,
+  "ArmorDamageDealt": 255,
+  "FirstKills": 4,
+  "FirstDeaths": 5,
+  "KASTRounds": 21,
+  "Headshots": 10,
+  "Defuses": 1,
+  "Plants": 2,
+  "Disconnected": false,
+  "Matches": [
+    "pug_de_inferno_2017-12-10_23",
+    "pug_de_inferno_old_2017-12-17_22",
+    "pug_de_season_2017-12-15_00"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 18,
+    "2": 2,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Name": "Dogwithrabiez",
+  "SteamID": 76561198002599946,
+  "Kills": 18,
+  "Deaths": 14,
+  "Assists": 7,
+  "FlashAssists": 0,
+  "MVPs": 4,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 1,
+  "AWPKills": 0,
+  "DamageDealt": 2455,
+  "ArmorDamageDealt": 215,
+  "FirstKills": 1,
+  "FirstDeaths": 2,
+  "KASTRounds": 17,
+  "Headshots": 7,
+  "Defuses": 1,
+  "Plants": 3,
+  "Disconnected": false,
+  "Matches": [
+    "pug_de_cache_2017-08-08_01"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 8,
+    "2": 3,
+    "3": 2,
+    "4": 0,
+    "5": 0
+  }
+}

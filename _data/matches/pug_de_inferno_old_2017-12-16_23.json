@@ -1,0 +1,544 @@
+{
+  "UID": "pug_de_inferno_old_2017-12-16_23",
+  "MapName": "workshop/822144441/de_inferno_old",
+  "TotalRounds": 59,
+  "TeamA": {
+    "Name": "Team 1",
+    "SteamIDs": [
+      "76561198072042202",
+      "76561198257100849",
+      "76561198071477737",
+      "76561198393693567",
+      "76561198109854748"
+    ],
+    "RoundsWon": 35
+  },
+  "TeamB": {
+    "Name": "Team 2",
+    "SteamIDs": [
+      "76561198148070517",
+      "76561198038963123",
+      "76561198055295222",
+      "76561198083383351",
+      "76561198271442417"
+    ],
+    "RoundsWon": 24
+  },
+  "SteamIDs": [
+    "76561198072042202",
+    "76561198148070517",
+    "76561198038963123",
+    "76561198257100849",
+    "76561198055295222",
+    "76561198071477737",
+    "76561198083383351",
+    "76561198393693567",
+    "76561198271442417",
+    "76561198109854748"
+  ],
+  "RoundWinReasons": [
+    "CTWin",
+    "CTWin",
+    "CTWin",
+    "BombDefused",
+    "BombDefused",
+    "CTWin",
+    "CTWin",
+    "CTWin",
+    "TerroristWin",
+    "CTWin",
+    "TerroristWin",
+    "TerroristWin",
+    "CTWin",
+    "TargetBombed",
+    "TerroristWin",
+    "BombDefused",
+    "CTWin",
+    "TargetSaved",
+    "CTWin",
+    "TerroristWin",
+    "TerroristWin",
+    "TargetSaved",
+    "TerroristWin",
+    "TargetBombed",
+    "BombDefused",
+    "TargetSaved",
+    "TerroristWin",
+    "BombDefused",
+    "CTWin",
+    "BombDefused",
+    "CTWin",
+    "CTWin",
+    "TerroristWin",
+    "TerroristWin",
+    "CTWin",
+    "CTWin",
+    "BombDefused",
+    "CTWin",
+    "CTWin",
+    "CTWin",
+    "CTWin",
+    "CTWin",
+    "CTWin",
+    "BombDefused",
+    "TargetBombed",
+    "TerroristWin",
+    "CTWin",
+    "CTWin",
+    "BombDefused",
+    "TargetBombed",
+    "TerroristWin",
+    "TerroristWin",
+    "TargetBombed",
+    "CTWin",
+    "BombDefused",
+    "CTWin",
+    "CTWin",
+    "BombDefused",
+    "TerroristWin"
+  ],
+  "Awards": {
+    "ExecuteOrder66": {
+      "SteamID": 76561198072042202,
+      "Name": "Ant-iwnl-",
+      "Value": 1.0
+    },
+    "TheKendoll": {
+      "SteamID": 76561198055295222,
+      "Name": "Froztbitten",
+      "Value": 21.0
+    },
+    "Terminator": {
+      "SteamID": 76561198072042202,
+      "Name": "Ant-iwnl-",
+      "Value": 69.0
+    },
+    "TheProffesional": {
+      "SteamID": 76561198148070517,
+      "Name": "Devyn",
+      "Value": 9910.0
+    },
+    "LendingHand": {
+      "SteamID": 76561198271442417,
+      "Name": "flipNDipp",
+      "Value": 14.0
+    },
+    "TheAssasin": {
+      "SteamID": 76561198148070517,
+      "Name": "Devyn",
+      "Value": 13.0
+    },
+    "TheEntry": {
+      "SteamID": 76561198038963123,
+      "Name": "LaD3",
+      "Value": 10.0
+    },
+    "ClutchMaster": {
+      "SteamID": 0,
+      "Name": "",
+      "Value": 0.0
+    },
+    "TradeCraft": {
+      "SteamID": 0,
+      "Name": "",
+      "Value": 0.0
+    },
+    "FragBait": {
+      "SteamID": 0,
+      "Name": "",
+      "Value": 0.0
+    }
+  },
+  "Players": {
+    "76561198072042202": {
+      "Name": "Ant-iwnl-",
+      "SteamID": 76561198072042202,
+      "Kills": 69,
+      "Deaths": 34,
+      "Assists": 11,
+      "FlashAssists": 0,
+      "MVPs": 11,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 1,
+      "AWPKills": 11,
+      "DamageDealt": 9823,
+      "ArmorDamageDealt": 943,
+      "FirstKills": 2,
+      "FirstDeaths": 2,
+      "KASTRounds": 43,
+      "Headshots": 15,
+      "Defuses": 2,
+      "Plants": 3,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_inferno_old_2017-12-16_23"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 18,
+        "2": 14,
+        "3": 4,
+        "4": 2,
+        "5": 1
+      }
+    },
+    "76561198148070517": {
+      "Name": "Devyn",
+      "SteamID": 76561198148070517,
+      "Kills": 59,
+      "Deaths": 37,
+      "Assists": 8,
+      "FlashAssists": 0,
+      "MVPs": 12,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 1,
+      "AWPKills": 13,
+      "DamageDealt": 9910,
+      "ArmorDamageDealt": 777,
+      "FirstKills": 7,
+      "FirstDeaths": 7,
+      "KASTRounds": 40,
+      "Headshots": 36,
+      "Defuses": 3,
+      "Plants": 3,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_inferno_old_2017-12-16_23"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 20,
+        "2": 8,
+        "3": 7,
+        "4": 1,
+        "5": 0
+      }
+    },
+    "76561198038963123": {
+      "Name": "LaD3",
+      "SteamID": 76561198038963123,
+      "Kills": 36,
+      "Deaths": 48,
+      "Assists": 12,
+      "FlashAssists": 0,
+      "MVPs": 8,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 3,
+      "DamageDealt": 5295,
+      "ArmorDamageDealt": 641,
+      "FirstKills": 10,
+      "FirstDeaths": 6,
+      "KASTRounds": 31,
+      "Headshots": 11,
+      "Defuses": 1,
+      "Plants": 4,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_inferno_old_2017-12-16_23"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 20,
+        "2": 8,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198257100849": {
+      "Name": "imReedy",
+      "SteamID": 76561198257100849,
+      "Kills": 49,
+      "Deaths": 42,
+      "Assists": 12,
+      "FlashAssists": 0,
+      "MVPs": 8,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 1,
+      "DamageDealt": 7259,
+      "ArmorDamageDealt": 902,
+      "FirstKills": 5,
+      "FirstDeaths": 1,
+      "KASTRounds": 38,
+      "Headshots": 25,
+      "Defuses": 1,
+      "Plants": 4,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_inferno_old_2017-12-16_23"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 22,
+        "2": 9,
+        "3": 3,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198055295222": {
+      "Name": "Froztbitten",
+      "SteamID": 76561198055295222,
+      "Kills": 25,
+      "Deaths": 48,
+      "Assists": 2,
+      "FlashAssists": 0,
+      "MVPs": 3,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 0,
+      "DamageDealt": 2863,
+      "ArmorDamageDealt": 456,
+      "FirstKills": 4,
+      "FirstDeaths": 4,
+      "KASTRounds": 21,
+      "Headshots": 14,
+      "Defuses": 1,
+      "Plants": 2,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_inferno_old_2017-12-16_23"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 17,
+        "2": 2,
+        "3": 0,
+        "4": 1,
+        "5": 0
+      }
+    },
+    "76561198071477737": {
+      "Name": "K",
+      "SteamID": 76561198071477737,
+      "Kills": 25,
+      "Deaths": 46,
+      "Assists": 11,
+      "FlashAssists": 0,
+      "MVPs": 4,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 0,
+      "DamageDealt": 3953,
+      "ArmorDamageDealt": 415,
+      "FirstKills": 7,
+      "FirstDeaths": 14,
+      "KASTRounds": 25,
+      "Headshots": 5,
+      "Defuses": 2,
+      "Plants": 2,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_inferno_old_2017-12-16_23"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 17,
+        "2": 4,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198083383351": {
+      "Name": "PartyPetah",
+      "SteamID": 76561198083383351,
+      "Kills": 29,
+      "Deaths": 44,
+      "Assists": 11,
+      "FlashAssists": 0,
+      "MVPs": 1,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 1,
+      "AWPKills": 1,
+      "DamageDealt": 4792,
+      "ArmorDamageDealt": 593,
+      "FirstKills": 4,
+      "FirstDeaths": 3,
+      "KASTRounds": 28,
+      "Headshots": 14,
+      "Defuses": 0,
+      "Plants": 6,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_inferno_old_2017-12-16_23"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 16,
+        "2": 5,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198393693567": {
+      "Name": "Vash the Stampede",
+      "SteamID": 76561198393693567,
+      "Kills": 49,
+      "Deaths": 37,
+      "Assists": 8,
+      "FlashAssists": 0,
+      "MVPs": 6,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 6,
+      "DamageDealt": 5937,
+      "ArmorDamageDealt": 520,
+      "FirstKills": 9,
+      "FirstDeaths": 12,
+      "KASTRounds": 34,
+      "Headshots": 13,
+      "Defuses": 1,
+      "Plants": 1,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_inferno_old_2017-12-16_23"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 19,
+        "2": 5,
+        "3": 4,
+        "4": 2,
+        "5": 0
+      }
+    },
+    "76561198271442417": {
+      "Name": "flipNDipp",
+      "SteamID": 76561198271442417,
+      "Kills": 50,
+      "Deaths": 47,
+      "Assists": 14,
+      "FlashAssists": 0,
+      "MVPs": 4,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 1,
+      "AWPKills": 0,
+      "DamageDealt": 7494,
+      "ArmorDamageDealt": 963,
+      "FirstKills": 9,
+      "FirstDeaths": 5,
+      "KASTRounds": 36,
+      "Headshots": 21,
+      "Defuses": 0,
+      "Plants": 1,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_inferno_old_2017-12-16_23"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 16,
+        "2": 11,
+        "3": 2,
+        "4": 2,
+        "5": 0
+      }
+    },
+    "76561198109854748": {
+      "Name": "USPS TRACKING",
+      "SteamID": 76561198109854748,
+      "Kills": 28,
+      "Deaths": 44,
+      "Assists": 13,
+      "FlashAssists": 0,
+      "MVPs": 2,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 1,
+      "DamageDealt": 5342,
+      "ArmorDamageDealt": 674,
+      "FirstKills": 2,
+      "FirstDeaths": 5,
+      "KASTRounds": 30,
+      "Headshots": 10,
+      "Defuses": 0,
+      "Plants": 4,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_inferno_old_2017-12-16_23"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 17,
+        "2": 4,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      }
+    }
+  }
+}

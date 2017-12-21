@@ -1,0 +1,43 @@
+{
+  "Name": "alt-CJ",
+  "SteamID": 76561198079742537,
+  "Kills": 106,
+  "Deaths": 165,
+  "Assists": 17,
+  "FlashAssists": 0,
+  "MVPs": 7,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 1,
+  "AWPKills": 8,
+  "DamageDealt": 8703,
+  "ArmorDamageDealt": 234,
+  "FirstKills": 4,
+  "FirstDeaths": 8,
+  "KASTRounds": 52,
+  "Headshots": 21,
+  "Defuses": 2,
+  "Plants": 10,
+  "Disconnected": false,
+  "Matches": [
+    "pug_cs_office_2017-12-03_18",
+    "pug_de_cache_2017-08-08_01",
+    "pug_de_cache_2017-08-19_00",
+    "pug_de_inferno_2017-12-10_23",
+    "pug_de_overpass_2017-08-08_22"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 30,
+    "2": 12,
+    "3": 3,
+    "4": 0,
+    "5": 0
+  }
+}

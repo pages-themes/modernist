@@ -1,0 +1,49 @@
+{
+  "Name": "Ant-iwnl-",
+  "SteamID": 76561198072042202,
+  "Kills": 495,
+  "Deaths": 329,
+  "Assists": 54,
+  "FlashAssists": 0,
+  "MVPs": 45,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 4,
+  "AWPKills": 48,
+  "DamageDealt": 36256,
+  "ArmorDamageDealt": 81,
+  "FirstKills": 25,
+  "FirstDeaths": 36,
+  "KASTRounds": 184,
+  "Headshots": 83,
+  "Defuses": 4,
+  "Plants": 14,
+  "Disconnected": false,
+  "Matches": [
+    "pug_cs_office_2017-12-03_18",
+    "pug_de_cache_2017-08-08_01",
+    "pug_de_cache_2017-08-19_00",
+    "pug_de_dust2_2017-12-15_22",
+    "pug_de_inferno_2017-12-10_23",
+    "pug_de_inferno_old_2017-12-16_23",
+    "pug_de_inferno_old_2017-12-17_22",
+    "pug_de_mirage_2017-08-07_22",
+    "pug_de_nache_2017-12-16_00",
+    "pug_de_overpass_2017-08-08_22",
+    "pug_de_season_2017-12-15_00"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 91,
+    "2": 49,
+    "3": 19,
+    "4": 3,
+    "5": 1
+  }
+}

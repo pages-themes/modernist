@@ -11,3 +11,13 @@
   color:#e40a0a;
 }
 
+.halfTable {
+  border: 2px solid gray;
+  width:50%;
+  border-collapse:collapse;
+}
+
+.fullWidthTable {
+  width:100%;
+  border-collapse:collapse;
+}
