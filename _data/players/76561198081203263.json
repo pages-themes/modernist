@@ -1,0 +1,42 @@
+{
+  "Name": "Yui Hirasawa",
+  "SteamID": 76561198081203263,
+  "Kills": 99,
+  "Deaths": 99,
+  "Assists": 9,
+  "FlashAssists": 0,
+  "MVPs": 11,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 0,
+  "AWPKills": 1,
+  "DamageDealt": 7565,
+  "ArmorDamageDealt": 278,
+  "FirstKills": 6,
+  "FirstDeaths": 4,
+  "KASTRounds": 45,
+  "Headshots": 15,
+  "Defuses": 5,
+  "Plants": 9,
+  "Disconnected": false,
+  "Matches": [
+    "pug_de_cache_2017-08-08_01",
+    "pug_de_mirage_2017-08-07_22",
+    "pug_de_nache_2017-12-16_00",
+    "pug_de_overpass_2017-08-08_22"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 27,
+    "2": 15,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  }
+}

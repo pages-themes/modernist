@@ -1,0 +1,48 @@
+{
+  "Name": "Devyn",
+  "SteamID": 76561198148070517,
+  "Kills": 426,
+  "Deaths": 401,
+  "Assists": 27,
+  "FlashAssists": 0,
+  "MVPs": 46,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 6,
+  "AWPKills": 35,
+  "DamageDealt": 34034,
+  "ArmorDamageDealt": 324,
+  "FirstKills": 40,
+  "FirstDeaths": 40,
+  "KASTRounds": 154,
+  "Headshots": 111,
+  "Defuses": 6,
+  "Plants": 12,
+  "Disconnected": false,
+  "Matches": [
+    "pug_cs_office_2017-12-03_18",
+    "pug_de_cache_2017-08-08_01",
+    "pug_de_cache_2017-08-19_00",
+    "pug_de_dust2_2017-12-15_22",
+    "pug_de_inferno_2017-12-10_23",
+    "pug_de_inferno_old_2017-12-16_23",
+    "pug_de_inferno_old_2017-12-17_22",
+    "pug_de_nache_2017-12-16_00",
+    "pug_de_overpass_2017-08-08_22",
+    "pug_de_season_2017-12-15_00"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 88,
+    "2": 41,
+    "3": 15,
+    "4": 4,
+    "5": 0
+  }
+}

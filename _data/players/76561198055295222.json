@@ -1,0 +1,40 @@
+{
+  "Name": "Froztbitten",
+  "SteamID": 76561198055295222,
+  "Kills": 53,
+  "Deaths": 120,
+  "Assists": 6,
+  "FlashAssists": 0,
+  "MVPs": 3,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 0,
+  "AWPKills": 0,
+  "DamageDealt": 5408,
+  "ArmorDamageDealt": 456,
+  "FirstKills": 4,
+  "FirstDeaths": 8,
+  "KASTRounds": 37,
+  "Headshots": 22,
+  "Defuses": 1,
+  "Plants": 5,
+  "Disconnected": false,
+  "Matches": [
+    "pug_de_inferno_old_2017-12-16_23",
+    "pug_de_inferno_old_2017-12-17_22"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 27,
+    "2": 4,
+    "3": 0,
+    "4": 1,
+    "5": 0
+  }
+}

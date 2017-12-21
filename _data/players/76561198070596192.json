@@ -1,0 +1,39 @@
+{
+  "Name": "Salty Satanic Daddy (͠≖ ͜ʖ",
+  "SteamID": 76561198070596192,
+  "Kills": 12,
+  "Deaths": 22,
+  "Assists": 3,
+  "FlashAssists": 0,
+  "MVPs": 1,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 0,
+  "AWPKills": 0,
+  "DamageDealt": 1639,
+  "ArmorDamageDealt": 231,
+  "FirstKills": 0,
+  "FirstDeaths": 1,
+  "KASTRounds": 10,
+  "Headshots": 4,
+  "Defuses": 0,
+  "Plants": 3,
+  "Disconnected": false,
+  "Matches": [
+    "pug_de_overpass_2017-08-08_22"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 5,
+    "2": 2,
+    "3": 1,
+    "4": 0,
+    "5": 0
+  }
+}

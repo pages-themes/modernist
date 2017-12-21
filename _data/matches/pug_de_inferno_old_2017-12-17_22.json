@@ -1,0 +1,566 @@
+{
+  "UID": "pug_de_inferno_old_2017-12-17_22",
+  "MapName": "workshop/822144441/de_inferno_old",
+  "TotalRounds": 41,
+  "TeamA": {
+    "Name": "No, this is Patrick",
+    "SteamIDs": [
+      "76561198393693567",
+      "76561198038963123",
+      "76561198010989621",
+      "76561198271442417",
+      "76561198118562612"
+    ],
+    "RoundsWon": 18
+  },
+  "TeamB": {
+    "Name": "PSU HBG > UP",
+    "SteamIDs": [
+      "76561198072042202",
+      "76561198001808454",
+      "76561198148070517",
+      "76561198071477737",
+      "76561198055295222"
+    ],
+    "RoundsWon": 23
+  },
+  "SteamIDs": [
+    "76561198393693567",
+    "76561198072042202",
+    "76561198001808454",
+    "76561198038963123",
+    "76561198148070517",
+    "76561198010989621",
+    "76561198071477737",
+    "76561198271442417",
+    "76561198055295222",
+    "76561198118562612",
+    "76561197972321876"
+  ],
+  "RoundWinReasons": [
+    "TerroristWin",
+    "TerroristWin",
+    "TerroristWin",
+    "BombDefused",
+    "TerroristWin",
+    "TerroristWin",
+    "CTWin",
+    "CTWin",
+    "CTWin",
+    "CTWin",
+    "CTWin",
+    "TargetBombed",
+    "CTWin",
+    "CTWin",
+    "CTWin",
+    "TerroristWin",
+    "TerroristWin",
+    "CTWin",
+    "CTWin",
+    "TerroristWin",
+    "TerroristWin",
+    "TerroristWin",
+    "CTWin",
+    "TerroristWin",
+    "CTWin",
+    "CTWin",
+    "CTWin",
+    "CTWin",
+    "CTWin",
+    "CTWin",
+    "TerroristWin",
+    "TargetBombed",
+    "TerroristWin",
+    "TargetBombed",
+    "TerroristWin",
+    "TerroristWin",
+    "CTWin",
+    "TerroristWin",
+    "TerroristWin",
+    "CTWin",
+    "CTWin"
+  ],
+  "Awards": {
+    "ExecuteOrder66": {
+      "SteamID": 76561198071477737,
+      "Name": "K",
+      "Value": 1.0
+    },
+    "TheKendoll": {
+      "SteamID": 0,
+      "Name": "",
+      "Value": 0.0
+    },
+    "Terminator": {
+      "SteamID": 76561198393693567,
+      "Name": "Vash the Stampede",
+      "Value": 45.0
+    },
+    "TheProffesional": {
+      "SteamID": 76561198393693567,
+      "Name": "Vash the Stampede",
+      "Value": 6555.0
+    },
+    "LendingHand": {
+      "SteamID": 76561198072042202,
+      "Name": "Ant-iwnl-",
+      "Value": 10.0
+    },
+    "TheAssasin": {
+      "SteamID": 76561198001808454,
+      "Name": "ISM",
+      "Value": 20.0
+    },
+    "TheEntry": {
+      "SteamID": 76561198393693567,
+      "Name": "Vash the Stampede",
+      "Value": 11.0
+    },
+    "ClutchMaster": {
+      "SteamID": 0,
+      "Name": "",
+      "Value": 0.0
+    },
+    "TradeCraft": {
+      "SteamID": 0,
+      "Name": "",
+      "Value": 0.0
+    },
+    "FragBait": {
+      "SteamID": 0,
+      "Name": "",
+      "Value": 0.0
+    }
+  },
+  "Players": {
+    "76561198393693567": {
+      "Name": "Vash the Stampede",
+      "SteamID": 76561198393693567,
+      "Kills": 45,
+      "Deaths": 30,
+      "Assists": 5,
+      "FlashAssists": 0,
+      "MVPs": 8,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 8,
+      "DamageDealt": 6555,
+      "ArmorDamageDealt": 445,
+      "FirstKills": 11,
+      "FirstDeaths": 6,
+      "KASTRounds": 31,
+      "Headshots": 18,
+      "Defuses": 0,
+      "Plants": 0,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_inferno_old_2017-12-17_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 16,
+        "2": 10,
+        "3": 3,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198072042202": {
+      "Name": "Ant-iwnl-",
+      "SteamID": 76561198072042202,
+      "Kills": 32,
+      "Deaths": 28,
+      "Assists": 10,
+      "FlashAssists": 0,
+      "MVPs": 3,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 5,
+      "DamageDealt": 5020,
+      "ArmorDamageDealt": 503,
+      "FirstKills": 1,
+      "FirstDeaths": 3,
+      "KASTRounds": 27,
+      "Headshots": 8,
+      "Defuses": 0,
+      "Plants": 2,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_inferno_old_2017-12-17_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 15,
+        "2": 4,
+        "3": 3,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198001808454": {
+      "Name": "ISM",
+      "SteamID": 76561198001808454,
+      "Kills": 34,
+      "Deaths": 29,
+      "Assists": 4,
+      "FlashAssists": 0,
+      "MVPs": 6,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 20,
+      "DamageDealt": 4762,
+      "ArmorDamageDealt": 250,
+      "FirstKills": 7,
+      "FirstDeaths": 8,
+      "KASTRounds": 25,
+      "Headshots": 8,
+      "Defuses": 0,
+      "Plants": 2,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_inferno_old_2017-12-17_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 14,
+        "2": 1,
+        "3": 6,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198038963123": {
+      "Name": "LaD3",
+      "SteamID": 76561198038963123,
+      "Kills": 34,
+      "Deaths": 28,
+      "Assists": 6,
+      "FlashAssists": 0,
+      "MVPs": 6,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 1,
+      "DamageDealt": 3997,
+      "ArmorDamageDealt": 482,
+      "FirstKills": 5,
+      "FirstDeaths": 2,
+      "KASTRounds": 25,
+      "Headshots": 5,
+      "Defuses": 0,
+      "Plants": 2,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_inferno_old_2017-12-17_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 14,
+        "2": 5,
+        "3": 2,
+        "4": 1,
+        "5": 0
+      }
+    },
+    "76561198148070517": {
+      "Name": "Devyn",
+      "SteamID": 76561198148070517,
+      "Kills": 42,
+      "Deaths": 31,
+      "Assists": 2,
+      "FlashAssists": 0,
+      "MVPs": 9,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 3,
+      "DamageDealt": 5299,
+      "ArmorDamageDealt": 565,
+      "FirstKills": 4,
+      "FirstDeaths": 1,
+      "KASTRounds": 21,
+      "Headshots": 15,
+      "Defuses": 0,
+      "Plants": 1,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_inferno_old_2017-12-17_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 8,
+        "2": 10,
+        "3": 2,
+        "4": 2,
+        "5": 0
+      }
+    },
+    "76561198010989621": {
+      "Name": "JQ.",
+      "SteamID": 76561198010989621,
+      "Kills": 27,
+      "Deaths": 27,
+      "Assists": 8,
+      "FlashAssists": 0,
+      "MVPs": 4,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 1,
+      "DamageDealt": 3861,
+      "ArmorDamageDealt": 369,
+      "FirstKills": 3,
+      "FirstDeaths": 3,
+      "KASTRounds": 23,
+      "Headshots": 11,
+      "Defuses": 0,
+      "Plants": 8,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_inferno_old_2017-12-17_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 11,
+        "2": 5,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198071477737": {
+      "Name": "K",
+      "SteamID": 76561198071477737,
+      "Kills": 11,
+      "Deaths": 34,
+      "Assists": 7,
+      "FlashAssists": 0,
+      "MVPs": 1,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 1,
+      "AWPKills": 1,
+      "DamageDealt": 2269,
+      "ArmorDamageDealt": 215,
+      "FirstKills": 5,
+      "FirstDeaths": 9,
+      "KASTRounds": 17,
+      "Headshots": 0,
+      "Defuses": 1,
+      "Plants": 0,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_inferno_old_2017-12-17_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 7,
+        "2": 3,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198271442417": {
+      "Name": "flipNDipp",
+      "SteamID": 76561198271442417,
+      "Kills": 32,
+      "Deaths": 26,
+      "Assists": 8,
+      "FlashAssists": 0,
+      "MVPs": 3,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 1,
+      "DamageDealt": 4385,
+      "ArmorDamageDealt": 545,
+      "FirstKills": 4,
+      "FirstDeaths": 4,
+      "KASTRounds": 25,
+      "Headshots": 13,
+      "Defuses": 0,
+      "Plants": 0,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_inferno_old_2017-12-17_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 13,
+        "2": 6,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198055295222": {
+      "Name": "Froztbitten",
+      "SteamID": 76561198055295222,
+      "Kills": 14,
+      "Deaths": 36,
+      "Assists": 4,
+      "FlashAssists": 0,
+      "MVPs": 0,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 0,
+      "DamageDealt": 2545,
+      "ArmorDamageDealt": 352,
+      "FirstKills": 0,
+      "FirstDeaths": 4,
+      "KASTRounds": 16,
+      "Headshots": 8,
+      "Defuses": 0,
+      "Plants": 3,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_inferno_old_2017-12-17_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 10,
+        "2": 2,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198118562612": {
+      "Name": "🖤ENDL3SSL0V3™🖤",
+      "SteamID": 76561198118562612,
+      "Kills": 18,
+      "Deaths": 24,
+      "Assists": 3,
+      "FlashAssists": 0,
+      "MVPs": 1,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 1,
+      "AWPKills": 6,
+      "DamageDealt": 3033,
+      "ArmorDamageDealt": 348,
+      "FirstKills": 1,
+      "FirstDeaths": 1,
+      "KASTRounds": 17,
+      "Headshots": 5,
+      "Defuses": 0,
+      "Plants": 1,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_inferno_old_2017-12-17_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 11,
+        "2": 3,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561197972321876": {
+      "Name": "the innocent hostage",
+      "SteamID": 76561197972321876,
+      "Kills": 0,
+      "Deaths": 0,
+      "Assists": 0,
+      "FlashAssists": 0,
+      "MVPs": 0,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 0,
+      "DamageDealt": 0,
+      "ArmorDamageDealt": 0,
+      "FirstKills": 0,
+      "FirstDeaths": 0,
+      "KASTRounds": 0,
+      "Headshots": 0,
+      "Defuses": 0,
+      "Plants": 0,
+      "Disconnected": true,
+      "Matches": [
+        "pug_de_inferno_old_2017-12-17_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    }
+  }
+}

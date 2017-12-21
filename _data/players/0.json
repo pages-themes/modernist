@@ -1,0 +1,39 @@
+{
+  "Name": "Wade",
+  "SteamID": 0,
+  "Kills": 0,
+  "Deaths": 0,
+  "Assists": 0,
+  "FlashAssists": 0,
+  "MVPs": 18,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 2,
+  "AWPKills": 5,
+  "DamageDealt": 11772,
+  "ArmorDamageDealt": 878,
+  "FirstKills": 18,
+  "FirstDeaths": 20,
+  "KASTRounds": 76,
+  "Headshots": 12,
+  "Defuses": 0,
+  "Plants": 12,
+  "Disconnected": true,
+  "Matches": [
+    "pug_de_canals_2017-12-15_12"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 38,
+    "2": 19,
+    "3": 4,
+    "4": 0,
+    "5": 0
+  }
+}

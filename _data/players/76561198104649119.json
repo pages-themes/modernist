@@ -1,0 +1,42 @@
+{
+  "Name": "M",
+  "SteamID": 76561198104649119,
+  "Kills": 155,
+  "Deaths": 125,
+  "Assists": 24,
+  "FlashAssists": 0,
+  "MVPs": 12,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 2,
+  "AWPKills": 5,
+  "DamageDealt": 13603,
+  "ArmorDamageDealt": 456,
+  "FirstKills": 16,
+  "FirstDeaths": 12,
+  "KASTRounds": 64,
+  "Headshots": 39,
+  "Defuses": 0,
+  "Plants": 5,
+  "Disconnected": false,
+  "Matches": [
+    "pug_de_cache_2017-08-08_01",
+    "pug_de_cache_2017-08-19_00",
+    "pug_de_mirage_2017-08-07_22",
+    "pug_de_overpass_2017-08-08_22"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 30,
+    "2": 20,
+    "3": 3,
+    "4": 3,
+    "5": 0
+  }
+}

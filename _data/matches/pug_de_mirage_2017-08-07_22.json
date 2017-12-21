@@ -1,0 +1,510 @@
+{
+  "UID": "pug_de_mirage_2017-08-07_22",
+  "MapName": "de_mirage",
+  "TotalRounds": 25,
+  "TeamA": {
+    "Name": "Team 1",
+    "SteamIDs": [
+      "76561198104649119",
+      "76561198084911409",
+      "76561198256748178",
+      "76561198081203263",
+      "76561198071477737"
+    ],
+    "RoundsWon": 9
+  },
+  "TeamB": {
+    "Name": "Team 2",
+    "SteamIDs": [
+      "76561198092823903",
+      "76561198117966816",
+      "76561198001808454",
+      "76561198072042202",
+      "76561198235994884"
+    ],
+    "RoundsWon": 16
+  },
+  "SteamIDs": [
+    "76561198092823903",
+    "76561198117966816",
+    "76561198001808454",
+    "76561198072042202",
+    "76561198104649119",
+    "76561198084911409",
+    "76561198235994884",
+    "76561198256748178",
+    "76561198081203263",
+    "76561198071477737"
+  ],
+  "RoundWinReasons": [
+    "TerroristWin",
+    "BombDefused",
+    "TerroristWin",
+    "CTWin",
+    "BombDefused",
+    "BombDefused",
+    "TerroristWin",
+    "CTWin",
+    "BombDefused",
+    "TerroristWin",
+    "TerroristWin",
+    "TerroristWin",
+    "BombDefused",
+    "CTWin",
+    "CTWin",
+    "TerroristWin",
+    "TerroristWin",
+    "TerroristWin",
+    "BombDefused",
+    "BombDefused",
+    "CTWin",
+    "TerroristWin",
+    "TerroristWin",
+    "TerroristWin",
+    "TerroristWin"
+  ],
+  "Awards": {
+    "ExecuteOrder66": {
+      "SteamID": 76561198104649119,
+      "Name": "M",
+      "Value": 2.0
+    },
+    "TheKendoll": {
+      "SteamID": 76561198071477737,
+      "Name": "K",
+      "Value": 7.0
+    },
+    "Terminator": {
+      "SteamID": 76561198117966816,
+      "Name": "rî§К",
+      "Value": 25.0
+    },
+    "TheProffesional": {
+      "SteamID": 76561198104649119,
+      "Name": "M",
+      "Value": 4071.0
+    },
+    "LendingHand": {
+      "SteamID": 76561198072042202,
+      "Name": "Ant-iwnl-",
+      "Value": 10.0
+    },
+    "TheAssasin": {
+      "SteamID": 76561198001808454,
+      "Name": "ISM",
+      "Value": 7.0
+    },
+    "TheEntry": {
+      "SteamID": 76561198084911409,
+      "Name": "Fenton | powered by depression",
+      "Value": 6.0
+    },
+    "ClutchMaster": {
+      "SteamID": 0,
+      "Name": "",
+      "Value": 0.0
+    },
+    "TradeCraft": {
+      "SteamID": 0,
+      "Name": "",
+      "Value": 0.0
+    },
+    "FragBait": {
+      "SteamID": 0,
+      "Name": "",
+      "Value": 0.0
+    }
+  },
+  "Players": {
+    "76561198092823903": {
+      "Name": "Dad",
+      "SteamID": 76561198092823903,
+      "Kills": 18,
+      "Deaths": 18,
+      "Assists": 6,
+      "FlashAssists": 0,
+      "MVPs": 3,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 0,
+      "DamageDealt": 2549,
+      "ArmorDamageDealt": 320,
+      "FirstKills": 3,
+      "FirstDeaths": 3,
+      "KASTRounds": 15,
+      "Headshots": 8,
+      "Defuses": 1,
+      "Plants": 0,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_mirage_2017-08-07_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 8,
+        "2": 5,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198117966816": {
+      "Name": "rî§К",
+      "SteamID": 76561198117966816,
+      "Kills": 25,
+      "Deaths": 14,
+      "Assists": 5,
+      "FlashAssists": 0,
+      "MVPs": 7,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 1,
+      "DamageDealt": 3278,
+      "ArmorDamageDealt": 516,
+      "FirstKills": 3,
+      "FirstDeaths": 0,
+      "KASTRounds": 17,
+      "Headshots": 9,
+      "Defuses": 3,
+      "Plants": 5,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_mirage_2017-08-07_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 9,
+        "2": 5,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198001808454": {
+      "Name": "ISM",
+      "SteamID": 76561198001808454,
+      "Kills": 19,
+      "Deaths": 20,
+      "Assists": 7,
+      "FlashAssists": 0,
+      "MVPs": 2,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 7,
+      "DamageDealt": 3536,
+      "ArmorDamageDealt": 230,
+      "FirstKills": 5,
+      "FirstDeaths": 2,
+      "KASTRounds": 17,
+      "Headshots": 8,
+      "Defuses": 0,
+      "Plants": 1,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_mirage_2017-08-07_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 7,
+        "2": 4,
+        "3": 0,
+        "4": 1,
+        "5": 0
+      }
+    },
+    "76561198072042202": {
+      "Name": "Ant-iwnl-",
+      "SteamID": 76561198072042202,
+      "Kills": 22,
+      "Deaths": 19,
+      "Assists": 10,
+      "FlashAssists": 0,
+      "MVPs": 1,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 3,
+      "DamageDealt": 3179,
+      "ArmorDamageDealt": 220,
+      "FirstKills": 3,
+      "FirstDeaths": 4,
+      "KASTRounds": 19,
+      "Headshots": 8,
+      "Defuses": 0,
+      "Plants": 0,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_mirage_2017-08-07_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 8,
+        "2": 7,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198104649119": {
+      "Name": "M",
+      "SteamID": 76561198104649119,
+      "Kills": 24,
+      "Deaths": 21,
+      "Assists": 5,
+      "FlashAssists": 0,
+      "MVPs": 3,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 2,
+      "AWPKills": 0,
+      "DamageDealt": 4071,
+      "ArmorDamageDealt": 271,
+      "FirstKills": 2,
+      "FirstDeaths": 2,
+      "KASTRounds": 16,
+      "Headshots": 14,
+      "Defuses": 0,
+      "Plants": 2,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_mirage_2017-08-07_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 4,
+        "2": 7,
+        "3": 2,
+        "4": 1,
+        "5": 0
+      }
+    },
+    "76561198084911409": {
+      "Name": "Fenton | powered by depression",
+      "SteamID": 76561198084911409,
+      "Kills": 21,
+      "Deaths": 22,
+      "Assists": 3,
+      "FlashAssists": 0,
+      "MVPs": 3,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 0,
+      "DamageDealt": 2890,
+      "ArmorDamageDealt": 231,
+      "FirstKills": 6,
+      "FirstDeaths": 5,
+      "KASTRounds": 12,
+      "Headshots": 6,
+      "Defuses": 0,
+      "Plants": 2,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_mirage_2017-08-07_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 6,
+        "2": 2,
+        "3": 1,
+        "4": 2,
+        "5": 0
+      }
+    },
+    "76561198235994884": {
+      "Name": "prg [C]",
+      "SteamID": 76561198235994884,
+      "Kills": 16,
+      "Deaths": 13,
+      "Assists": 4,
+      "FlashAssists": 0,
+      "MVPs": 3,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 5,
+      "DamageDealt": 2359,
+      "ArmorDamageDealt": 119,
+      "FirstKills": 1,
+      "FirstDeaths": 1,
+      "KASTRounds": 12,
+      "Headshots": 4,
+      "Defuses": 1,
+      "Plants": 2,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_mirage_2017-08-07_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 2,
+        "2": 4,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198256748178": {
+      "Name": "Blue Cunts with Guns",
+      "SteamID": 76561198256748178,
+      "Kills": 21,
+      "Deaths": 20,
+      "Assists": 4,
+      "FlashAssists": 0,
+      "MVPs": 2,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 0,
+      "DamageDealt": 3141,
+      "ArmorDamageDealt": 276,
+      "FirstKills": 1,
+      "FirstDeaths": 1,
+      "KASTRounds": 16,
+      "Headshots": 10,
+      "Defuses": 1,
+      "Plants": 0,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_mirage_2017-08-07_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 6,
+        "2": 6,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198081203263": {
+      "Name": "Yui Hirasawa",
+      "SteamID": 76561198081203263,
+      "Kills": 13,
+      "Deaths": 18,
+      "Assists": 0,
+      "FlashAssists": 0,
+      "MVPs": 1,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 1,
+      "DamageDealt": 1544,
+      "ArmorDamageDealt": 116,
+      "FirstKills": 1,
+      "FirstDeaths": 1,
+      "KASTRounds": 10,
+      "Headshots": 4,
+      "Defuses": 1,
+      "Plants": 4,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_mirage_2017-08-07_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 7,
+        "2": 3,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198071477737": {
+      "Name": "K",
+      "SteamID": 76561198071477737,
+      "Kills": 3,
+      "Deaths": 21,
+      "Assists": 4,
+      "FlashAssists": 0,
+      "MVPs": 0,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 0,
+      "DamageDealt": 672,
+      "ArmorDamageDealt": 76,
+      "FirstKills": 0,
+      "FirstDeaths": 6,
+      "KASTRounds": 7,
+      "Headshots": 0,
+      "Defuses": 0,
+      "Plants": 1,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_mirage_2017-08-07_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 3,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    }
+  }
+}

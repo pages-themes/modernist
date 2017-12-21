@@ -1,0 +1,39 @@
+{
+  "Name": "Dad",
+  "SteamID": 76561198092823903,
+  "Kills": 18,
+  "Deaths": 18,
+  "Assists": 6,
+  "FlashAssists": 0,
+  "MVPs": 3,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 0,
+  "AWPKills": 0,
+  "DamageDealt": 2549,
+  "ArmorDamageDealt": 320,
+  "FirstKills": 3,
+  "FirstDeaths": 3,
+  "KASTRounds": 15,
+  "Headshots": 8,
+  "Defuses": 1,
+  "Plants": 0,
+  "Disconnected": false,
+  "Matches": [
+    "pug_de_mirage_2017-08-07_22"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 8,
+    "2": 5,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  }
+}

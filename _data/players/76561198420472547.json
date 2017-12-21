@@ -1,0 +1,40 @@
+{
+  "Name": "LC",
+  "SteamID": 76561198420472547,
+  "Kills": 54,
+  "Deaths": 62,
+  "Assists": 7,
+  "FlashAssists": 0,
+  "MVPs": 3,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 0,
+  "AWPKills": 0,
+  "DamageDealt": 4700,
+  "ArmorDamageDealt": 130,
+  "FirstKills": 0,
+  "FirstDeaths": 2,
+  "KASTRounds": 33,
+  "Headshots": 16,
+  "Defuses": 0,
+  "Plants": 1,
+  "Disconnected": false,
+  "Matches": [
+    "pug_cs_office_2017-12-03_18",
+    "pug_de_inferno_2017-12-10_23"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 21,
+    "2": 6,
+    "3": 1,
+    "4": 0,
+    "5": 0
+  }
+}

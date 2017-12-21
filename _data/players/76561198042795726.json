@@ -1,0 +1,39 @@
+{
+  "Name": "♕ Luck ღ",
+  "SteamID": 76561198042795726,
+  "Kills": 11,
+  "Deaths": 25,
+  "Assists": 8,
+  "FlashAssists": 0,
+  "MVPs": 2,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 1,
+  "AWPKills": 3,
+  "DamageDealt": 2251,
+  "ArmorDamageDealt": 203,
+  "FirstKills": 4,
+  "FirstDeaths": 3,
+  "KASTRounds": 14,
+  "Headshots": 3,
+  "Defuses": 0,
+  "Plants": 0,
+  "Disconnected": false,
+  "Matches": [
+    "pug_cs_office_2017-12-03_18"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 4,
+    "2": 3,
+    "3": 1,
+    "4": 0,
+    "5": 0
+  }
+}

@@ -2,3 +2,76 @@
 ---
 
 @import "jekyll-theme-modernist";
+
+.kdDiffPositive {
+  color:#08a500;
+}
+
+.kdDiffNegative {
+  color:#e40a0a;
+}
+
+.scoreWinner {
+  font: bold 15px arial, sans-serif;
+  color:#08a500;
+}
+
+.scoreLoser {
+  font: bold 15px arial, sans-serif;
+  color:#e40a0a;
+}
+
+.scoreTie {
+  font: bold;
+ color:#4286f4;
+}
+
+.halfTable {
+  background: #f3f3f3;
+  border: 2px solid #ddd;
+  width:50%;
+  border-collapse:collapse;
+}
+
+.fullTable {
+  background: #f3f3f3;
+  width:100%;
+  border-collapse:collapse;
+}
+
+.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+}
+
+.active, .accordion:hover {
+    background-color: #ccc;
+}
+
+.accordion:after {
+    content: '\002B';
+    color: #777;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+}
+
+.active:after {
+    content: "\2212";
+}
+
+.panel {
+    padding: 0 18px;
+    background-color: #dedede;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}

@@ -1,0 +1,41 @@
+{
+  "Name": "rî§К",
+  "SteamID": 76561198117966816,
+  "Kills": 106,
+  "Deaths": 69,
+  "Assists": 12,
+  "FlashAssists": 0,
+  "MVPs": 11,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 0,
+  "AWPKills": 5,
+  "DamageDealt": 8823,
+  "ArmorDamageDealt": 299,
+  "FirstKills": 10,
+  "FirstDeaths": 4,
+  "KASTRounds": 48,
+  "Headshots": 28,
+  "Defuses": 3,
+  "Plants": 8,
+  "Disconnected": false,
+  "Matches": [
+    "pug_de_cache_2017-08-08_01",
+    "pug_de_inferno_2017-12-10_23",
+    "pug_de_mirage_2017-08-07_22"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 25,
+    "2": 9,
+    "3": 5,
+    "4": 2,
+    "5": 0
+  }
+}

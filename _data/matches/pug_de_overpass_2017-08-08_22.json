@@ -1,0 +1,508 @@
+{
+  "UID": "pug_de_overpass_2017-08-08_22",
+  "MapName": "de_overpass",
+  "TotalRounds": 23,
+  "TeamA": {
+    "Name": "Team 1",
+    "SteamIDs": [
+      "76561198148070517",
+      "76561198071477737",
+      "76561198038963123",
+      "76561198256748178",
+      "76561198070596192"
+    ],
+    "RoundsWon": 7
+  },
+  "TeamB": {
+    "Name": "Team 2",
+    "SteamIDs": [
+      "76561198081203263",
+      "76561198072042202",
+      "76561198084911409",
+      "76561198079742537",
+      "76561198104649119"
+    ],
+    "RoundsWon": 16
+  },
+  "SteamIDs": [
+    "76561198081203263",
+    "76561198072042202",
+    "76561198148070517",
+    "76561198084911409",
+    "76561198079742537",
+    "76561198071477737",
+    "76561198038963123",
+    "76561198256748178",
+    "76561198070596192",
+    "76561198104649119"
+  ],
+  "RoundWinReasons": [
+    "CTWin",
+    "TerroristWin",
+    "TerroristWin",
+    "CTWin",
+    "CTWin",
+    "TargetSaved",
+    "TerroristWin",
+    "CTWin",
+    "CTWin",
+    "CTWin",
+    "TargetBombed",
+    "CTWin",
+    "CTWin",
+    "CTWin",
+    "TerroristWin",
+    "TerroristWin",
+    "TerroristWin",
+    "CTWin",
+    "CTWin",
+    "TerroristWin",
+    "TerroristWin",
+    "TerroristWin",
+    "TerroristWin"
+  ],
+  "Awards": {
+    "ExecuteOrder66": {
+      "SteamID": 76561198148070517,
+      "Name": "Devyn",
+      "Value": 1.0
+    },
+    "TheKendoll": {
+      "SteamID": 76561198079742537,
+      "Name": "alt-CJ",
+      "Value": 9.0
+    },
+    "Terminator": {
+      "SteamID": 76561198072042202,
+      "Name": "Ant-iwnl-",
+      "Value": 28.0
+    },
+    "TheProffesional": {
+      "SteamID": 76561198104649119,
+      "Name": "M",
+      "Value": 3750.0
+    },
+    "LendingHand": {
+      "SteamID": 76561198104649119,
+      "Name": "M",
+      "Value": 7.0
+    },
+    "TheAssasin": {
+      "SteamID": 76561198148070517,
+      "Name": "Devyn",
+      "Value": 5.0
+    },
+    "TheEntry": {
+      "SteamID": 76561198072042202,
+      "Name": "Ant-iwnl-",
+      "Value": 9.0
+    },
+    "ClutchMaster": {
+      "SteamID": 0,
+      "Name": "",
+      "Value": 0.0
+    },
+    "TradeCraft": {
+      "SteamID": 0,
+      "Name": "",
+      "Value": 0.0
+    },
+    "FragBait": {
+      "SteamID": 0,
+      "Name": "",
+      "Value": 0.0
+    }
+  },
+  "Players": {
+    "76561198081203263": {
+      "Name": "Yui Hirasawa",
+      "SteamID": 76561198081203263,
+      "Kills": 18,
+      "Deaths": 13,
+      "Assists": 2,
+      "FlashAssists": 0,
+      "MVPs": 5,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 0,
+      "DamageDealt": 2331,
+      "ArmorDamageDealt": 299,
+      "FirstKills": 2,
+      "FirstDeaths": 1,
+      "KASTRounds": 13,
+      "Headshots": 4,
+      "Defuses": 0,
+      "Plants": 1,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_overpass_2017-08-08_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 8,
+        "2": 5,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198072042202": {
+      "Name": "Ant-iwnl-",
+      "SteamID": 76561198072042202,
+      "Kills": 28,
+      "Deaths": 12,
+      "Assists": 4,
+      "FlashAssists": 0,
+      "MVPs": 4,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 3,
+      "DamageDealt": 3240,
+      "ArmorDamageDealt": 343,
+      "FirstKills": 9,
+      "FirstDeaths": 1,
+      "KASTRounds": 18,
+      "Headshots": 6,
+      "Defuses": 0,
+      "Plants": 1,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_overpass_2017-08-08_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 10,
+        "2": 6,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198148070517": {
+      "Name": "Devyn",
+      "SteamID": 76561198148070517,
+      "Kills": 11,
+      "Deaths": 19,
+      "Assists": 6,
+      "FlashAssists": 0,
+      "MVPs": 0,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 1,
+      "AWPKills": 5,
+      "DamageDealt": 2360,
+      "ArmorDamageDealt": 94,
+      "FirstKills": 1,
+      "FirstDeaths": 2,
+      "KASTRounds": 12,
+      "Headshots": 6,
+      "Defuses": 0,
+      "Plants": 0,
+      "Disconnected": true,
+      "Matches": [
+        "pug_de_overpass_2017-08-08_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 9,
+        "2": 2,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198084911409": {
+      "Name": "Fenton | powered by depression",
+      "SteamID": 76561198084911409,
+      "Kills": 18,
+      "Deaths": 15,
+      "Assists": 2,
+      "FlashAssists": 0,
+      "MVPs": 3,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 5,
+      "DamageDealt": 2947,
+      "ArmorDamageDealt": 153,
+      "FirstKills": 3,
+      "FirstDeaths": 3,
+      "KASTRounds": 13,
+      "Headshots": 9,
+      "Defuses": 0,
+      "Plants": 0,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_overpass_2017-08-08_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 6,
+        "2": 6,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198079742537": {
+      "Name": "alt-CJ",
+      "SteamID": 76561198079742537,
+      "Kills": 9,
+      "Deaths": 13,
+      "Assists": 2,
+      "FlashAssists": 0,
+      "MVPs": 0,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 2,
+      "DamageDealt": 1280,
+      "ArmorDamageDealt": 129,
+      "FirstKills": 0,
+      "FirstDeaths": 0,
+      "KASTRounds": 9,
+      "Headshots": 1,
+      "Defuses": 0,
+      "Plants": 3,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_overpass_2017-08-08_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 7,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198071477737": {
+      "Name": "Not K",
+      "SteamID": 76561198071477737,
+      "Kills": 11,
+      "Deaths": 21,
+      "Assists": 1,
+      "FlashAssists": 0,
+      "MVPs": 0,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 1,
+      "DamageDealt": 1643,
+      "ArmorDamageDealt": 203,
+      "FirstKills": 3,
+      "FirstDeaths": 4,
+      "KASTRounds": 11,
+      "Headshots": 1,
+      "Defuses": 0,
+      "Plants": 1,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_overpass_2017-08-08_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 9,
+        "2": 1,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198038963123": {
+      "Name": "LaD3",
+      "SteamID": 76561198038963123,
+      "Kills": 17,
+      "Deaths": 19,
+      "Assists": 1,
+      "FlashAssists": 0,
+      "MVPs": 2,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 0,
+      "DamageDealt": 2069,
+      "ArmorDamageDealt": 168,
+      "FirstKills": 1,
+      "FirstDeaths": 4,
+      "KASTRounds": 11,
+      "Headshots": 5,
+      "Defuses": 0,
+      "Plants": 0,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_overpass_2017-08-08_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 6,
+        "2": 4,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198256748178": {
+      "Name": "Mike Nolan",
+      "SteamID": 76561198256748178,
+      "Kills": 14,
+      "Deaths": 18,
+      "Assists": 2,
+      "FlashAssists": 0,
+      "MVPs": 4,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 4,
+      "DamageDealt": 2202,
+      "ArmorDamageDealt": 97,
+      "FirstKills": 1,
+      "FirstDeaths": 6,
+      "KASTRounds": 9,
+      "Headshots": 5,
+      "Defuses": 0,
+      "Plants": 1,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_overpass_2017-08-08_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 4,
+        "2": 2,
+        "3": 2,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198070596192": {
+      "Name": "Salty Satanic Daddy (͠≖ ͜ʖ",
+      "SteamID": 76561198070596192,
+      "Kills": 12,
+      "Deaths": 22,
+      "Assists": 3,
+      "FlashAssists": 0,
+      "MVPs": 1,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 0,
+      "DamageDealt": 1639,
+      "ArmorDamageDealt": 231,
+      "FirstKills": 0,
+      "FirstDeaths": 1,
+      "KASTRounds": 10,
+      "Headshots": 4,
+      "Defuses": 0,
+      "Plants": 3,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_overpass_2017-08-08_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 5,
+        "2": 2,
+        "3": 1,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "76561198104649119": {
+      "Name": "M",
+      "SteamID": 76561198104649119,
+      "Kills": 25,
+      "Deaths": 13,
+      "Assists": 7,
+      "FlashAssists": 0,
+      "MVPs": 4,
+      "TradeKills": 0,
+      "TimesTraded": 0,
+      "TeamKills": 0,
+      "AWPKills": 5,
+      "DamageDealt": 3750,
+      "ArmorDamageDealt": 384,
+      "FirstKills": 3,
+      "FirstDeaths": 1,
+      "KASTRounds": 17,
+      "Headshots": 6,
+      "Defuses": 0,
+      "Plants": 0,
+      "Disconnected": false,
+      "Matches": [
+        "pug_de_overpass_2017-08-08_22"
+      ],
+      "Clutches": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      },
+      "KillPerRound": {
+        "1": 8,
+        "2": 5,
+        "3": 1,
+        "4": 1,
+        "5": 0
+      }
+    }
+  }
+}

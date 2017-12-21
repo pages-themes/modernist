@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+<head>
+   <meta charset="utf-8">
+   <meta http-equiv="X-UA-Compatible" content="chrome=1">
+   {% seo %}
+   <link href='https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700' rel='stylesheet' type='text/css'>
+   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+   <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+   <script src="{{ '/assets/js/sorttable.js' | relative_url }}"></script>
+   <!--[if lt IE 9]>
+   <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+   <![endif]-->
+</head>
+<body>
+   {% assign steamID = page.playerid | downcase %}
+   {% assign player = site.data.players[steamID] %}
+   <div class="wrapper">
+      <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
+      <div style="clear: both">
+         <h1 style="float: left">{{player.Name}}</h1>
+      </div>
+      <br/>
+      <br/>
+      {% if site.description or site.github.project_tagline %}
+      <p>{{ site.description | default: site.github.project_tagline }}</p>
+      {% endif %}
+      </header>
+      <section>
+         <button class="accordion">Matches</button>
+         <div class="panel">
+            <ul>
+               {% for matchid in player.Matches %}
+               <li><a href="/matches/{{matchid}}.html">{{matchid}}</a>
+                  {% endfor %}
+            </ul>
+         </div>
+         <br>
+         <table style="float: left" id="table_{{player.SteamID}}_1" class="halfTable">
+            <tr>
+               <th style="text-align: center">Kills</th>
+               <!-- Kills -->				
+               <td markdown="span" style="text-align: center">{{player.Kills | default:"0"}}</td>
+            </tr>
+            <tr>
+               <th style="text-align: center">Assists</th>
+               <!-- Assists -->
+               <td markdown="span" style="text-align: center">{{player.Assists | default:"0"}}</td>
+            </tr>
+            <tr>
+               <th style="text-align: center">Deaths</th>
+               <!-- Deaths -->
+               <td markdown="span" style="text-align: center">{{player.Deaths | default:"0"}}</td>
+            </tr>
+            <tr>
+               <th style="text-align: center">KAST %</th>
+               <!-- KAST % -->
+               {% assign totalRounds = player.TotalRounds | times: 1.0 %}
+               <td markdown="span" style="text-align: center">{{player.KASTRounds | divided_by: totalRounds | times: 100 | round: 2}}%</td>
+            </tr>
+            <tr>
+               <th style="text-align: center">ADR</th>
+               <!-- ADR -->
+               <td markdown="span" style="text-align: center">{{player.DamageDealt | divided_by: totalRounds | round: 1}}
+            </tr>
+            <tr>
+               <th style="text-align: center">KD Diff</th>
+               <!-- K/D Diff -->
+               {% assign kdDiff = player.Kills | minus: player.Deaths %}
+               {% if kdDiff > 0 %}
+               {% assign kdDiffClass = "kdDiffPositive" %}
+               {% assign kdSign = "+" %}
+               {% elsif kdDiff < 0 %}
+               {% assign kdDiffClass = "kdDiffNegative" %}
+               {% assign kdSign = "" %}
+               {% else %}
+               {% assign kdDiffClass = "kdDiffNone" %}
+               {% assign kdSign = "" %}
+               {% endif %}			
+               <td markdown="span" style="text-align: center" class={{kdDiffClass}}>{{kdSign}}{{kdDiff | default:"0"}}</td>
+            </tr>
+            <tr>
+               <th style="text-align: center">Headshot %</th>
+               <!-- Headshot % -->
+               {% assign kills = player.Kills | times: 1.0 %}
+               <td markdown="span" style="text-align: center">{{player.Headshots | divided_by: kills | times: 100 | round: 2}}%</td>
+            </tr>
+            <tr>
+               <th style="text-align: center">Plants</th>
+               <!-- Plants -->
+               <td markdown="span" style="text-align: center">{{player.Plants | default:"0"}}</td>
+            </tr>
+            <tr>
+               <th style="text-align: center">Defuses</th>
+               <!-- Defuses -->
+               <td markdown="span" style="text-align: center">{{player.Defuses | default:"0"}}</td>
+            </tr>
+            <tr>
+               <th style="text-align: center">MVPs</th>
+               <!-- MVPs -->
+               <td markdown="span" style="text-align: center">{{player.MVPs | default:"0"}}</td>
+            </tr>
+         </table>
+         <table id="table_{{player.SteamID}}_2" class="halfTable">
+            <tr>
+               <th style="text-align: center">Team Kills</th>
+               <!-- TKs -->
+               <td markdown="span" style="text-align: center">{{player.TeamKills | default:"0"}}</td>
+            </tr>
+            <tr>
+               <th style="text-align: center">AWP Kills</th>
+               <!-- AWP Kills -->
+               <td markdown="span" style="text-align: center">{{player.AWPKills | default:"0"}}</td>
+            </tr>
+            <tr>
+               <th style="text-align: center">Damage Dealt</th>
+               <!-- Damage Dealt -->
+               <td markdown="span" style="text-align: center">{{player.DamageDealt | default:"0"}}</td>
+            </tr>
+            <tr>
+               <th style="text-align: center">First Kills</th>
+               <!-- First Kills -->
+               <td markdown="span" style="text-align: center">{{player.FirstKills | default:"0"}}</td>
+            </tr>
+            <tr>
+               <th style="text-align: center">First Deaths</th>
+               <!-- First Deaths -->
+               <td markdown="span" style="text-align: center">{{player.FirstDeaths | default:"0"}}</td>
+            </tr>
+            <tr>
+               <th style="text-align: center">1K Rounds</th>
+               <!-- 1Ks -->
+               {% assign varString = 1 | downcase %}
+               <td markdown="span" style="text-align: center">{{player.KillPerRound[varString] | default:"0"}}</td>
+            </tr>
+            <tr>
+               <th style="text-align: center">2K Rounds</th>
+               <!-- 2Ks -->
+               {% assign varString = 2 | downcase %}
+               <td markdown="span" style="text-align: center">{{player.KillPerRound[varString] | default:"0"}}</td>
+            </tr>
+            <tr>
+               <th style="text-align: center">3K Rounds</th>
+               <!-- 3Ks -->
+               {% assign varString = 3 | downcase %}
+               <td markdown="span" style="text-align: center">{{player.KillPerRound[varString] | default:"0"}}</td>
+            </tr>
+            <tr>
+               <th style="text-align: center">4K Rounds</th>
+               <!-- 4Ks -->
+               {% assign varString = 4 | downcase %}
+               <td markdown="span" style="text-align: center">{{player.KillPerRound[varString] | default:"0"}}</td>
+            </tr>
+            <tr>
+               <th style="text-align: center">5K Rounds</th>
+               <!-- 5Ks -->
+               {% assign varString = 5 | downcase %}
+               <td markdown="span" style="text-align: center">{{player.KillPerRound[varString] | default:"0"}}</td>
+            </tr>
+         </table>
+         {{ content }}
+      </section>
+   </div>
+   <footer>
+      {% if site.github.is_project_page %}
+      <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+      {% endif %}
+      <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
+   </footer>
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight){
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+</script>   <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+   {% if site.google_analytics %}
+   <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', '{{ site.google_analytics }}', 'auto');
+      ga('send', 'pageview');
+   </script>
+   {% endif %}
+</body>
+</html>

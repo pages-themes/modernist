@@ -1,0 +1,39 @@
+{
+  "Name": "Mercy Main BTW",
+  "SteamID": 76561198165409571,
+  "Kills": 0,
+  "Deaths": 0,
+  "Assists": 0,
+  "FlashAssists": 0,
+  "MVPs": 1,
+  "TradeKills": 0,
+  "TimesTraded": 0,
+  "TeamKills": 0,
+  "AWPKills": 0,
+  "DamageDealt": 886,
+  "ArmorDamageDealt": 117,
+  "FirstKills": 2,
+  "FirstDeaths": 1,
+  "KASTRounds": 6,
+  "Headshots": 2,
+  "Defuses": 0,
+  "Plants": 0,
+  "Disconnected": true,
+  "Matches": [
+    "pug_de_season_2017-12-15_00"
+  ],
+  "Clutches": {
+    "1": 0,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "KillPerRound": {
+    "1": 4,
+    "2": 1,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  }
+}
