@@ -15,12 +15,10 @@
     <![endif]-->
   </head>
   <body>
-	{% assign match = site.data.matches[page.matchid] %}
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
 	<div style="clear: both">
-        <h1 style="float: left">{{ match.TeamA.Name | default: "Team A" }} vs. {{ match.TeamB.Name | default: "Team B" }}</h1>
-		<h3 style="float: right"><a href="{{page.demourl}}">GOTV Demo</a></h3>
+        <h1 style="float: left">marxy.net</h1>
 	</div>
 	<br/>
 	<br/>
@@ -29,13 +27,40 @@
         {% endif %}
       </header>
       <section>
-	  
-	  {% assign rounds = match.TotalRounds %}
-	  {% include teamstattable.html totalRounds=rounds players=match.Players teamIDs=match.TeamA.SteamIDs teamname=match.TeamA.Name %}
-	  {% include teamstattable.html totalRounds=rounds players=match.Players teamIDs=match.TeamB.SteamIDs teamname=match.TeamB.Name %}
-
       {{ content }}
-
+		<div align="center" class="matchresult">
+			<table class="matchtable">
+               {% for matchArr in site.data.matches %}
+				{% assign match = matchArr[1] %}
+				{% if match.TeamA.RoundsWon > match.TeamB.RoundsWon %}
+					{% assign scoreAClass = "scoreWinner" %}
+					{% assign scoreBClass = "scoreLoser" %}
+				{% elsif match.TeamA.RoundsWon < match.TeamB.RoundsWon%}
+					{% assign scoreAClass = "scoreLoser" %}
+					{% assign scoreBClass = "scoreWinner" %}
+				{% else %}
+					{% assign scoreAClass = "scoreTie" %}
+					{% assign scoreBClass = "scoreTie" %}
+				{% endif %}		
+				<tr class='clickable-row' href='/matches/{{match.UID}}.html'>
+					<td>
+						{{match.TeamA.Name}} 
+					</td>
+					<td>
+						<span class="{{scoreAClass}}">{{match.TeamA.RoundsWon}}</span>
+						-
+						<span class="{{scoreBClass}}">{{match.TeamB.RoundsWon}}</span>
+					</td>
+					<td>
+						{{match.TeamB.Name}}
+					</td>
+					<td>
+						{{match.MapName}} 
+					</td>
+				</tr>
+               {% endfor %}
+			 </table>
+		</div>
       </section>
     </div>
     <footer>
@@ -44,7 +69,35 @@
     {% endif %}
       <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
     </footer>
+<script>
+    var acc = document.getElementsByClassName("clickable-row");
+
+	var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+	window.location = this.getAttribute("href");
+	});
+}
+</script>
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight){
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
+</script>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+
     {% if site.google_analytics %}
       <script type="text/javascript">
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
