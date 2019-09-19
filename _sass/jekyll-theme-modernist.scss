@@ -4,6 +4,7 @@
 html {
   background:#6C7989;
   background: #6C7989 linear_gradient(#6C7989, #434B55) fixed;
+  height: 100%;
 }
 
 body {
@@ -12,7 +13,8 @@ body {
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#555;
   font-weight:300;
-  background:inline-image('checker.png') fixed;
+  background:url('../images/checker.png') fixed;
+  min-height: calc(100% - 100px);
 }
 
 .wrapper {
