@@ -1,5 +1,8 @@
-title: Modernist theme
+name: "Alex's Portfolio"
 description: Modernist is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-modernist
+url: https://add0794.github.io/
+markdown: kramdown
+# theme: jekyll-theme-modernist
+# show_downloads: true
+# google_analytics:
+# theme: jekyll-theme-modernist
