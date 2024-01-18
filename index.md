@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# This is the beginning of my website Lucas Sillito
+
+This is my second line
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
